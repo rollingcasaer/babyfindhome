@@ -1,211 +1,246 @@
 {
     "nodes": [
         {
-            "id": "Beijing",
+            "id": 0,
+            "name": "Beijing",
             "x": 116.4120026,
             "y": 40.1855011,
             "value": 445
         },
         {
-            "id": "Tianjin",
+            "id": 1,
+            "name": "Tianjin",
             "x": 117.3339996,
             "y": 39.29339981,
             "value": 219
         },
         {
-            "id": "Hebei",
+            "id": 2,
+            "name": "Hebei",
             "x": 116.137001,
             "y": 39.54779816,
             "value": 2380
         },
         {
-            "id": "Shanxi",
+            "id": 3,
+            "name": "Shanxi",
             "x": 112.2900009,
             "y": 37.57170105,
             "value": 579
         },
         {
-            "id": "Neimenggu",
+            "id": 4,
+            "name": "Neimenggu",
             "x": 113.9219971,
             "y": 44.08929825,
             "value": 283
         },
         {
-            "id": "Neimenggu",
+            "id": 5,
+            "name": "Neimenggu",
             "x": 125.5660019,
             "y": 40.68629837,
             "value": 283
         },
         {
-            "id": "Liaoning",
+            "id": 6,
+            "name": "Liaoning",
             "x": 122.6029968,
             "y": 41.2881012,
             "value": 463
         },
         {
-            "id": "Jilin",
+            "id": 7,
+            "name": "Jilin",
             "x": 126.1880035,
             "y": 43.66770172,
             "value": 358
         },
         {
-            "id": "Heilongjiang",
+            "id": 8,
+            "name": "Heilongjiang",
             "x": 127.7659988,
             "y": 47.86169815,
             "value": 448
         },
         {
-            "id": "Shanghai",
+            "id": 9,
+            "name": "Shanghai",
             "x": 121.4690018,
             "y": 31.24010086,
             "value": 311
         },
         {
-            "id": "Jiangsu",
+            "id": 10,
+            "name": "Jiangsu",
             "x": 119.4749985,
             "y": 32.9632988,
             "value": 2191
         },
         {
-            "id": "Zhejiang",
+            "id": 11,
+            "name": "Zhejiang",
             "x": 120.1110001,
             "y": 29.19610023,
             "value": 878
         },
         {
-            "id": "Anhui",
+            "id": 12,
+            "name": "Anhui",
             "x": 117.2259979,
             "y": 31.82600021,
             "value": 1370
         },
         {
-            "id": "Fujian",
+            "id": 13,
+            "name": "Fujian",
             "x": 117.9899979,
             "y": 26.07410049,
             "value": 1470
         },
         {
-            "id": "Jiangxi",
+            "id": 14,
+            "name": "Jiangxi",
             "x": 115.7220001,
             "y": 27.6140995,
             "value": 573
         },
         {
-            "id": "Shandong",
+            "id": 15,
+            "name": "Shandong",
             "x": 118.1529999,
             "y": 36.3492012,
             "value": 2644
         },
         {
-            "id": "Henan",
+            "id": 16,
+            "name": "Henan",
             "x": 113.6149979,
             "y": 33.88230133,
             "value": 3402
         },
         {
-            "id": "Hubei",
+            "id": 17,
+            "name": "Hubei",
             "x": 112.2720032,
             "y": 30.97550011,
             "value": 632
         },
         {
-            "id": "Hunan",
+            "id": 18,
+            "name": "Hunan",
             "x": 111.7089996,
             "y": 27.60980034,
             "value": 630
         },
         {
-            "id": "Guangdong",
+            "id": 19,
+            "name": "Guangdong",
             "x": 113.4219971,
             "y": 23.33959961,
             "value": 1603
         },
         {
-            "id": "Guangxi",
+            "id": 20,
+            "name": "Guangxi",
             "x": 108.788002,
             "y": 23.8295002,
             "value": 166
         },
         {
-            "id": "Hainan",
+            "id": 21,
+            "name": "Hainan",
             "x": 109.8089981,
             "y": 19.14209938,
             "value": 29
         },
         {
-            "id": "Chongqing",
+            "id": 22,
+            "name": "Chongqing",
             "x": 107.8740005,
             "y": 30.05719948,
             "value": 580
         },
         {
-            "id": "Sichuan",
+            "id": 23,
+            "name": "Sichuan",
             "x": 102.6930008,
             "y": 30.62919998,
             "value": 1284
         },
         {
-            "id": "Guizhou",
+            "id": 24,
+            "name": "Guizhou",
             "x": 106.875,
             "y": 26.81550026,
             "value": 407
         },
         {
-            "id": "Yunnan",
+            "id": 25,
+            "name": "Yunnan",
             "x": 101.4869995,
             "y": 24.97500038,
             "value": 203
         },
         {
-            "id": "Xizang",
+            "id": 26,
+            "name": "Xizang",
             "x": 88.43979645,
             "y": 31.49169922,
             "value": 6
         },
         {
-            "id": "Shaanxi",
+            "id": 27,
+            "name": "Shaanxi",
             "x": 108.8690033,
             "y": 35.19060135,
             "value": 525
         },
         {
-            "id": "Gansu",
+            "id": 28,
+            "name": "Gansu",
             "x": 100.6039963,
             "y": 37.88150024,
             "value": 199
         },
         {
-            "id": "Qinghai",
+            "id": 29,
+            "name": "Qinghai",
             "x": 96.03929901,
             "y": 35.67070007,
             "value": 28
         },
         {
-            "id": "Ningxia",
+            "id": 30,
+            "name": "Ningxia",
             "x": 106.1640015,
             "y": 37.27159882,
             "value": 43
         },
         {
-            "id": "Xinjiang",
+            "id": 31,
+            "name": "Xinjiang",
             "x": 85.19129944,
             "y": 41.11719894,
             "value": 179
         },
         {
-            "id": "Taiwan",
+            "id": 32,
+            "name": "Taiwan",
             "x": 120.9680023,
             "y": 23.74710083,
             "value": 2
         },
         {
-            "id": "Hongkong",
+            "id": 33,
+            "name": "Hongkong",
             "x": 114.1340027,
             "y": 22.38129997,
             "value": 0
         },
         {
-            "id": "Macau",
+            "id": 34,
+            "name": "Macau",
             "x": 113.560997,
             "y": 22.16300011,
             "value": 0
@@ -213,3673 +248,3673 @@
     ],
     "links": [
         {
-            "source": "Beijing",
-            "target": "Beijing",
+            "source": 0,
+            "target": 0,
             "value": 154
         },
         {
-            "source": "Beijing",
-            "target": "Tianjin",
+            "source": 0,
+            "target": 1,
             "value": 9
         },
         {
-            "source": "Beijing",
-            "target": "Hebei",
+            "source": 0,
+            "target": 2,
             "value": 78
         },
         {
-            "source": "Beijing",
-            "target": "Shanxi",
+            "source": 0,
+            "target": 3,
             "value": 4
         },
         {
-            "source": "Beijing",
-            "target": "Neimenggu",
+            "source": 0,
+            "target": 4,
             "value": 2
         },
         {
-            "source": "Beijing",
-            "target": "Liaoning",
+            "source": 0,
+            "target": 6,
             "value": 8
         },
         {
-            "source": "Beijing",
-            "target": "Jilin",
+            "source": 0,
+            "target": 7,
             "value": 1
         },
         {
-            "source": "Beijing",
-            "target": "Heilongjiang",
+            "source": 0,
+            "target": 8,
             "value": 5
         },
         {
-            "source": "Beijing",
-            "target": "Shanghai",
+            "source": 0,
+            "target": 9,
             "value": 4
         },
         {
-            "source": "Beijing",
-            "target": "Jiangsu",
+            "source": 0,
+            "target": 10,
             "value": 10
         },
         {
-            "source": "Beijing",
-            "target": "Zhejiang",
+            "source": 0,
+            "target": 11,
             "value": 4
         },
         {
-            "source": "Beijing",
-            "target": "Anhui",
+            "source": 0,
+            "target": 12,
             "value": 4
         },
         {
-            "source": "Beijing",
-            "target": "Fujian",
+            "source": 0,
+            "target": 13,
             "value": 3
         },
         {
-            "source": "Beijing",
-            "target": "Shandong",
+            "source": 0,
+            "target": 15,
             "value": 18
         },
         {
-            "source": "Beijing",
-            "target": "Henan",
+            "source": 0,
+            "target": 16,
             "value": 24
         },
         {
-            "source": "Beijing",
-            "target": "Guangdong",
+            "source": 0,
+            "target": 19,
             "value": 7
         },
         {
-            "source": "Beijing",
-            "target": "Guangxi",
+            "source": 0,
+            "target": 20,
             "value": 1
         },
         {
-            "source": "Beijing",
-            "target": "Chongqing",
+            "source": 0,
+            "target": 22,
             "value": 2
         },
         {
-            "source": "Beijing",
-            "target": "Sichuan",
+            "source": 0,
+            "target": 23,
             "value": 3
         },
         {
-            "source": "Beijing",
-            "target": "Shaanxi",
+            "source": 0,
+            "target": 27,
             "value": 5
         },
         {
-            "source": "Beijing",
-            "target": "Gansu",
+            "source": 0,
+            "target": 28,
             "value": 1
         },
         {
-            "source": "Beijing",
-            "target": "Qinghai",
+            "source": 0,
+            "target": 29,
             "value": 1
         },
         {
-            "source": "Beijing",
-            "target": "Xinjiang",
+            "source": 0,
+            "target": 31,
             "value": 4
         },
         {
-            "source": "Tianjin",
-            "target": "Beijing",
+            "source": 1,
+            "target": 0,
             "value": 16
         },
         {
-            "source": "Tianjin",
-            "target": "Tianjin",
+            "source": 1,
+            "target": 1,
             "value": 93
         },
         {
-            "source": "Tianjin",
-            "target": "Hebei",
+            "source": 1,
+            "target": 2,
             "value": 90
         },
         {
-            "source": "Tianjin",
-            "target": "Shanxi",
+            "source": 1,
+            "target": 3,
             "value": 2
         },
         {
-            "source": "Tianjin",
-            "target": "Neimenggu",
+            "source": 1,
+            "target": 4,
             "value": 1
         },
         {
-            "source": "Tianjin",
-            "target": "Liaoning",
+            "source": 1,
+            "target": 6,
             "value": 2
         },
         {
-            "source": "Tianjin",
-            "target": "Jilin",
+            "source": 1,
+            "target": 7,
             "value": 1
         },
         {
-            "source": "Tianjin",
-            "target": "Shanghai",
+            "source": 1,
+            "target": 9,
             "value": 1
         },
         {
-            "source": "Tianjin",
-            "target": "Jiangsu",
+            "source": 1,
+            "target": 10,
             "value": 2
         },
         {
-            "source": "Tianjin",
-            "target": "Anhui",
+            "source": 1,
+            "target": 12,
             "value": 1
         },
         {
-            "source": "Tianjin",
-            "target": "Shandong",
+            "source": 1,
+            "target": 15,
             "value": 6
         },
         {
-            "source": "Tianjin",
-            "target": "Henan",
+            "source": 1,
+            "target": 16,
             "value": 4
         },
         {
-            "source": "Tianjin",
-            "target": "Hubei",
+            "source": 1,
+            "target": 17,
             "value": 2
         },
         {
-            "source": "Tianjin",
-            "target": "Sichuan",
+            "source": 1,
+            "target": 23,
             "value": 3
         },
         {
-            "source": "Tianjin",
-            "target": "Guizhou",
+            "source": 1,
+            "target": 24,
             "value": 1
         },
         {
-            "source": "Tianjin",
-            "target": "Ningxia",
+            "source": 1,
+            "target": 30,
             "value": 1
         },
         {
-            "source": "Hebei",
-            "target": "Beijing",
+            "source": 2,
+            "target": 0,
             "value": 41
         },
         {
-            "source": "Hebei",
-            "target": "Tianjin",
+            "source": 2,
+            "target": 1,
             "value": 18
         },
         {
-            "source": "Hebei",
-            "target": "Hebei",
+            "source": 2,
+            "target": 2,
             "value": 776
         },
         {
-            "source": "Hebei",
-            "target": "Shanxi",
+            "source": 2,
+            "target": 3,
             "value": 11
         },
         {
-            "source": "Hebei",
-            "target": "Neimenggu",
+            "source": 2,
+            "target": 4,
             "value": 9
         },
         {
-            "source": "Hebei",
-            "target": "Liaoning",
+            "source": 2,
+            "target": 6,
             "value": 5
         },
         {
-            "source": "Hebei",
-            "target": "Jilin",
+            "source": 2,
+            "target": 7,
             "value": 2
         },
         {
-            "source": "Hebei",
-            "target": "Heilongjiang",
+            "source": 2,
+            "target": 8,
             "value": 6
         },
         {
-            "source": "Hebei",
-            "target": "Shanghai",
+            "source": 2,
+            "target": 9,
             "value": 2
         },
         {
-            "source": "Hebei",
-            "target": "Jiangsu",
+            "source": 2,
+            "target": 10,
             "value": 13
         },
         {
-            "source": "Hebei",
-            "target": "Zhejiang",
+            "source": 2,
+            "target": 11,
             "value": 4
         },
         {
-            "source": "Hebei",
-            "target": "Anhui",
+            "source": 2,
+            "target": 12,
             "value": 3
         },
         {
-            "source": "Hebei",
-            "target": "Fujian",
+            "source": 2,
+            "target": 13,
             "value": 4
         },
         {
-            "source": "Hebei",
-            "target": "Shandong",
+            "source": 2,
+            "target": 15,
             "value": 23
         },
         {
-            "source": "Hebei",
-            "target": "Henan",
+            "source": 2,
+            "target": 16,
             "value": 27
         },
         {
-            "source": "Hebei",
-            "target": "Hubei",
+            "source": 2,
+            "target": 17,
             "value": 4
         },
         {
-            "source": "Hebei",
-            "target": "Hunan",
+            "source": 2,
+            "target": 18,
             "value": 1
         },
         {
-            "source": "Hebei",
-            "target": "Guangdong",
+            "source": 2,
+            "target": 19,
             "value": 7
         },
         {
-            "source": "Hebei",
-            "target": "Guangxi",
+            "source": 2,
+            "target": 20,
             "value": 1
         },
         {
-            "source": "Hebei",
-            "target": "Chongqing",
+            "source": 2,
+            "target": 22,
             "value": 2
         },
         {
-            "source": "Hebei",
-            "target": "Sichuan",
+            "source": 2,
+            "target": 23,
             "value": 6
         },
         {
-            "source": "Hebei",
-            "target": "Guizhou",
+            "source": 2,
+            "target": 24,
             "value": 4
         },
         {
-            "source": "Hebei",
-            "target": "Yunnan",
+            "source": 2,
+            "target": 25,
             "value": 1
         },
         {
-            "source": "Hebei",
-            "target": "Shaanxi",
+            "source": 2,
+            "target": 27,
             "value": 3
         },
         {
-            "source": "Hebei",
-            "target": "Gansu",
+            "source": 2,
+            "target": 28,
             "value": 1
         },
         {
-            "source": "Hebei",
-            "target": "Xinjiang",
+            "source": 2,
+            "target": 31,
             "value": 1
         },
         {
-            "source": "Shanxi",
-            "target": "Beijing",
+            "source": 3,
+            "target": 0,
             "value": 18
         },
         {
-            "source": "Shanxi",
-            "target": "Tianjin",
+            "source": 3,
+            "target": 1,
             "value": 11
         },
         {
-            "source": "Shanxi",
-            "target": "Hebei",
+            "source": 3,
+            "target": 2,
             "value": 311
         },
         {
-            "source": "Shanxi",
-            "target": "Shanxi",
+            "source": 3,
+            "target": 3,
             "value": 355
         },
         {
-            "source": "Shanxi",
-            "target": "Neimenggu",
+            "source": 3,
+            "target": 4,
             "value": 8
         },
         {
-            "source": "Shanxi",
-            "target": "Liaoning",
+            "source": 3,
+            "target": 6,
             "value": 8
         },
         {
-            "source": "Shanxi",
-            "target": "Jilin",
+            "source": 3,
+            "target": 7,
             "value": 1
         },
         {
-            "source": "Shanxi",
-            "target": "Heilongjiang",
+            "source": 3,
+            "target": 8,
             "value": 4
         },
         {
-            "source": "Shanxi",
-            "target": "Shanghai",
+            "source": 3,
+            "target": 9,
             "value": 5
         },
         {
-            "source": "Shanxi",
-            "target": "Jiangsu",
+            "source": 3,
+            "target": 10,
             "value": 14
         },
         {
-            "source": "Shanxi",
-            "target": "Zhejiang",
+            "source": 3,
+            "target": 11,
             "value": 14
         },
         {
-            "source": "Shanxi",
-            "target": "Anhui",
+            "source": 3,
+            "target": 12,
             "value": 5
         },
         {
-            "source": "Shanxi",
-            "target": "Fujian",
+            "source": 3,
+            "target": 13,
             "value": 5
         },
         {
-            "source": "Shanxi",
-            "target": "Jiangxi",
+            "source": 3,
+            "target": 14,
             "value": 1
         },
         {
-            "source": "Shanxi",
-            "target": "Shandong",
+            "source": 3,
+            "target": 15,
             "value": 157
         },
         {
-            "source": "Shanxi",
-            "target": "Henan",
+            "source": 3,
+            "target": 16,
             "value": 159
         },
         {
-            "source": "Shanxi",
-            "target": "Hubei",
+            "source": 3,
+            "target": 17,
             "value": 4
         },
         {
-            "source": "Shanxi",
-            "target": "Hunan",
+            "source": 3,
+            "target": 18,
             "value": 1
         },
         {
-            "source": "Shanxi",
-            "target": "Guangdong",
+            "source": 3,
+            "target": 19,
             "value": 9
         },
         {
-            "source": "Shanxi",
-            "target": "Guangxi",
+            "source": 3,
+            "target": 20,
             "value": 1
         },
         {
-            "source": "Shanxi",
-            "target": "Chongqing",
+            "source": 3,
+            "target": 22,
             "value": 1
         },
         {
-            "source": "Shanxi",
-            "target": "Sichuan",
+            "source": 3,
+            "target": 23,
             "value": 6
         },
         {
-            "source": "Shanxi",
-            "target": "Guizhou",
+            "source": 3,
+            "target": 24,
             "value": 2
         },
         {
-            "source": "Shanxi",
-            "target": "Yunnan",
+            "source": 3,
+            "target": 25,
             "value": 2
         },
         {
-            "source": "Shanxi",
-            "target": "Shaanxi",
+            "source": 3,
+            "target": 27,
             "value": 3
         },
         {
-            "source": "Shanxi",
-            "target": "Gansu",
+            "source": 3,
+            "target": 28,
             "value": 2
         },
         {
-            "source": "Shanxi",
-            "target": "Xinjiang",
+            "source": 3,
+            "target": 31,
             "value": 3
         },
         {
-            "source": "Neimenggu",
-            "target": "Beijing",
+            "source": 4,
+            "target": 0,
             "value": 15
         },
         {
-            "source": "Neimenggu",
-            "target": "Tianjin",
+            "source": 4,
+            "target": 1,
             "value": 13
         },
         {
-            "source": "Neimenggu",
-            "target": "Hebei",
+            "source": 4,
+            "target": 2,
             "value": 129
         },
         {
-            "source": "Neimenggu",
-            "target": "Shanxi",
+            "source": 4,
+            "target": 3,
             "value": 11
         },
         {
-            "source": "Neimenggu",
-            "target": "Neimenggu",
+            "source": 4,
+            "target": 4,
             "value": 188
         },
         {
-            "source": "Neimenggu",
-            "target": "Liaoning",
+            "source": 4,
+            "target": 6,
             "value": 15
         },
         {
-            "source": "Neimenggu",
-            "target": "Jilin",
+            "source": 4,
+            "target": 7,
             "value": 5
         },
         {
-            "source": "Neimenggu",
-            "target": "Heilongjiang",
+            "source": 4,
+            "target": 8,
             "value": 14
         },
         {
-            "source": "Neimenggu",
-            "target": "Shanghai",
+            "source": 4,
+            "target": 9,
             "value": 3
         },
         {
-            "source": "Neimenggu",
-            "target": "Jiangsu",
+            "source": 4,
+            "target": 10,
             "value": 15
         },
         {
-            "source": "Neimenggu",
-            "target": "Zhejiang",
+            "source": 4,
+            "target": 11,
             "value": 2
         },
         {
-            "source": "Neimenggu",
-            "target": "Anhui",
+            "source": 4,
+            "target": 12,
             "value": 11
         },
         {
-            "source": "Neimenggu",
-            "target": "Fujian",
+            "source": 4,
+            "target": 13,
             "value": 5
         },
         {
-            "source": "Neimenggu",
-            "target": "Jiangxi",
+            "source": 4,
+            "target": 14,
             "value": 4
         },
         {
-            "source": "Neimenggu",
-            "target": "Shandong",
+            "source": 4,
+            "target": 15,
             "value": 64
         },
         {
-            "source": "Neimenggu",
-            "target": "Henan",
+            "source": 4,
+            "target": 16,
             "value": 33
         },
         {
-            "source": "Neimenggu",
-            "target": "Hunan",
+            "source": 4,
+            "target": 18,
             "value": 2
         },
         {
-            "source": "Neimenggu",
-            "target": "Guangdong",
+            "source": 4,
+            "target": 19,
             "value": 3
         },
         {
-            "source": "Neimenggu",
-            "target": "Guangxi",
+            "source": 4,
+            "target": 20,
             "value": 1
         },
         {
-            "source": "Neimenggu",
-            "target": "Chongqing",
+            "source": 4,
+            "target": 22,
             "value": 1
         },
         {
-            "source": "Neimenggu",
-            "target": "Sichuan",
+            "source": 4,
+            "target": 23,
             "value": 2
         },
         {
-            "source": "Neimenggu",
-            "target": "Yunnan",
+            "source": 4,
+            "target": 25,
             "value": 2
         },
         {
-            "source": "Neimenggu",
-            "target": "Gansu",
+            "source": 4,
+            "target": 28,
             "value": 2
         },
         {
-            "source": "Neimenggu",
-            "target": "Qinghai",
+            "source": 4,
+            "target": 29,
             "value": 1
         },
         {
-            "source": "Neimenggu",
-            "target": "Xinjiang",
+            "source": 4,
+            "target": 31,
             "value": 4
         },
         {
-            "source": "Liaoning",
-            "target": "Beijing",
+            "source": 6,
+            "target": 0,
             "value": 10
         },
         {
-            "source": "Liaoning",
-            "target": "Tianjin",
+            "source": 6,
+            "target": 1,
             "value": 8
         },
         {
-            "source": "Liaoning",
-            "target": "Hebei",
+            "source": 6,
+            "target": 2,
             "value": 33
         },
         {
-            "source": "Liaoning",
-            "target": "Shanxi",
+            "source": 6,
+            "target": 3,
             "value": 5
         },
         {
-            "source": "Liaoning",
-            "target": "Neimenggu",
+            "source": 6,
+            "target": 4,
             "value": 13
         },
         {
-            "source": "Liaoning",
-            "target": "Liaoning",
+            "source": 6,
+            "target": 6,
             "value": 286
         },
         {
-            "source": "Liaoning",
-            "target": "Jilin",
+            "source": 6,
+            "target": 7,
             "value": 20
         },
         {
-            "source": "Liaoning",
-            "target": "Heilongjiang",
+            "source": 6,
+            "target": 8,
             "value": 11
         },
         {
-            "source": "Liaoning",
-            "target": "Shanghai",
+            "source": 6,
+            "target": 9,
             "value": 1
         },
         {
-            "source": "Liaoning",
-            "target": "Jiangsu",
+            "source": 6,
+            "target": 10,
             "value": 5
         },
         {
-            "source": "Liaoning",
-            "target": "Zhejiang",
+            "source": 6,
+            "target": 11,
             "value": 1
         },
         {
-            "source": "Liaoning",
-            "target": "Anhui",
+            "source": 6,
+            "target": 12,
             "value": 3
         },
         {
-            "source": "Liaoning",
-            "target": "Fujian",
+            "source": 6,
+            "target": 13,
             "value": 4
         },
         {
-            "source": "Liaoning",
-            "target": "Jiangxi",
+            "source": 6,
+            "target": 14,
             "value": 1
         },
         {
-            "source": "Liaoning",
-            "target": "Shandong",
+            "source": 6,
+            "target": 15,
             "value": 27
         },
         {
-            "source": "Liaoning",
-            "target": "Henan",
+            "source": 6,
+            "target": 16,
             "value": 13
         },
         {
-            "source": "Liaoning",
-            "target": "Hubei",
+            "source": 6,
+            "target": 17,
             "value": 1
         },
         {
-            "source": "Liaoning",
-            "target": "Hunan",
+            "source": 6,
+            "target": 18,
             "value": 4
         },
         {
-            "source": "Liaoning",
-            "target": "Guangdong",
+            "source": 6,
+            "target": 19,
             "value": 2
         },
         {
-            "source": "Liaoning",
-            "target": "Guangxi",
+            "source": 6,
+            "target": 20,
             "value": 1
         },
         {
-            "source": "Liaoning",
-            "target": "Hainan",
+            "source": 6,
+            "target": 21,
             "value": 1
         },
         {
-            "source": "Liaoning",
-            "target": "Chongqing",
+            "source": 6,
+            "target": 22,
             "value": 1
         },
         {
-            "source": "Liaoning",
-            "target": "Sichuan",
+            "source": 6,
+            "target": 23,
             "value": 1
         },
         {
-            "source": "Liaoning",
-            "target": "Guizhou",
+            "source": 6,
+            "target": 24,
             "value": 2
         },
         {
-            "source": "Liaoning",
-            "target": "Yunnan",
+            "source": 6,
+            "target": 25,
             "value": 1
         },
         {
-            "source": "Liaoning",
-            "target": "Shaanxi",
+            "source": 6,
+            "target": 27,
             "value": 6
         },
         {
-            "source": "Liaoning",
-            "target": "Ningxia",
+            "source": 6,
+            "target": 30,
             "value": 1
         },
         {
-            "source": "Liaoning",
-            "target": "Xinjiang",
+            "source": 6,
+            "target": 31,
             "value": 1
         },
         {
-            "source": "Jilin",
-            "target": "Beijing",
+            "source": 7,
+            "target": 0,
             "value": 12
         },
         {
-            "source": "Jilin",
-            "target": "Tianjin",
+            "source": 7,
+            "target": 1,
             "value": 4
         },
         {
-            "source": "Jilin",
-            "target": "Hebei",
+            "source": 7,
+            "target": 2,
             "value": 21
         },
         {
-            "source": "Jilin",
-            "target": "Shanxi",
+            "source": 7,
+            "target": 3,
             "value": 2
         },
         {
-            "source": "Jilin",
-            "target": "Neimenggu",
+            "source": 7,
+            "target": 4,
             "value": 5
         },
         {
-            "source": "Jilin",
-            "target": "Liaoning",
+            "source": 7,
+            "target": 6,
             "value": 19
         },
         {
-            "source": "Jilin",
-            "target": "Jilin",
+            "source": 7,
+            "target": 7,
             "value": 262
         },
         {
-            "source": "Jilin",
-            "target": "Heilongjiang",
+            "source": 7,
+            "target": 8,
             "value": 20
         },
         {
-            "source": "Jilin",
-            "target": "Shanghai",
+            "source": 7,
+            "target": 9,
             "value": 4
         },
         {
-            "source": "Jilin",
-            "target": "Jiangsu",
+            "source": 7,
+            "target": 10,
             "value": 6
         },
         {
-            "source": "Jilin",
-            "target": "Zhejiang",
+            "source": 7,
+            "target": 11,
             "value": 8
         },
         {
-            "source": "Jilin",
-            "target": "Anhui",
+            "source": 7,
+            "target": 12,
             "value": 3
         },
         {
-            "source": "Jilin",
-            "target": "Fujian",
+            "source": 7,
+            "target": 13,
             "value": 2
         },
         {
-            "source": "Jilin",
-            "target": "Shandong",
+            "source": 7,
+            "target": 15,
             "value": 45
         },
         {
-            "source": "Jilin",
-            "target": "Henan",
+            "source": 7,
+            "target": 16,
             "value": 12
         },
         {
-            "source": "Jilin",
-            "target": "Hubei",
+            "source": 7,
+            "target": 17,
             "value": 1
         },
         {
-            "source": "Jilin",
-            "target": "Guangdong",
+            "source": 7,
+            "target": 19,
             "value": 2
         },
         {
-            "source": "Jilin",
-            "target": "Chongqing",
+            "source": 7,
+            "target": 22,
             "value": 2
         },
         {
-            "source": "Jilin",
-            "target": "Sichuan",
+            "source": 7,
+            "target": 23,
             "value": 5
         },
         {
-            "source": "Jilin",
-            "target": "Yunnan",
+            "source": 7,
+            "target": 25,
             "value": 1
         },
         {
-            "source": "Jilin",
-            "target": "Gansu",
+            "source": 7,
+            "target": 28,
             "value": 1
         },
         {
-            "source": "Jilin",
-            "target": "Qinghai",
+            "source": 7,
+            "target": 29,
             "value": 1
         },
         {
-            "source": "Jilin",
-            "target": "Xinjiang",
+            "source": 7,
+            "target": 31,
             "value": 1
         },
         {
-            "source": "Heilongjiang",
-            "target": "Beijing",
+            "source": 8,
+            "target": 0,
             "value": 8
         },
         {
-            "source": "Heilongjiang",
-            "target": "Tianjin",
+            "source": 8,
+            "target": 1,
             "value": 3
         },
         {
-            "source": "Heilongjiang",
-            "target": "Hebei",
+            "source": 8,
+            "target": 2,
             "value": 36
         },
         {
-            "source": "Heilongjiang",
-            "target": "Neimenggu",
+            "source": 8,
+            "target": 4,
             "value": 8
         },
         {
-            "source": "Heilongjiang",
-            "target": "Liaoning",
+            "source": 8,
+            "target": 6,
             "value": 34
         },
         {
-            "source": "Heilongjiang",
-            "target": "Jilin",
+            "source": 8,
+            "target": 7,
             "value": 20
         },
         {
-            "source": "Heilongjiang",
-            "target": "Heilongjiang",
+            "source": 8,
+            "target": 8,
             "value": 343
         },
         {
-            "source": "Heilongjiang",
-            "target": "Shanghai",
+            "source": 8,
+            "target": 9,
             "value": 5
         },
         {
-            "source": "Heilongjiang",
-            "target": "Jiangsu",
+            "source": 8,
+            "target": 10,
             "value": 11
         },
         {
-            "source": "Heilongjiang",
-            "target": "Zhejiang",
+            "source": 8,
+            "target": 11,
             "value": 7
         },
         {
-            "source": "Heilongjiang",
-            "target": "Anhui",
+            "source": 8,
+            "target": 12,
             "value": 5
         },
         {
-            "source": "Heilongjiang",
-            "target": "Fujian",
+            "source": 8,
+            "target": 13,
             "value": 4
         },
         {
-            "source": "Heilongjiang",
-            "target": "Jiangxi",
+            "source": 8,
+            "target": 14,
             "value": 3
         },
         {
-            "source": "Heilongjiang",
-            "target": "Shandong",
+            "source": 8,
+            "target": 15,
             "value": 74
         },
         {
-            "source": "Heilongjiang",
-            "target": "Henan",
+            "source": 8,
+            "target": 16,
             "value": 13
         },
         {
-            "source": "Heilongjiang",
-            "target": "Hubei",
+            "source": 8,
+            "target": 17,
             "value": 2
         },
         {
-            "source": "Heilongjiang",
-            "target": "Hunan",
+            "source": 8,
+            "target": 18,
             "value": 2
         },
         {
-            "source": "Heilongjiang",
-            "target": "Guangdong",
+            "source": 8,
+            "target": 19,
             "value": 4
         },
         {
-            "source": "Heilongjiang",
-            "target": "Hainan",
+            "source": 8,
+            "target": 21,
             "value": 2
         },
         {
-            "source": "Heilongjiang",
-            "target": "Chongqing",
+            "source": 8,
+            "target": 22,
             "value": 2
         },
         {
-            "source": "Heilongjiang",
-            "target": "Sichuan",
+            "source": 8,
+            "target": 23,
             "value": 4
         },
         {
-            "source": "Heilongjiang",
-            "target": "Guizhou",
+            "source": 8,
+            "target": 24,
             "value": 1
         },
         {
-            "source": "Heilongjiang",
-            "target": "Yunnan",
+            "source": 8,
+            "target": 25,
             "value": 1
         },
         {
-            "source": "Heilongjiang",
-            "target": "Shaanxi",
+            "source": 8,
+            "target": 27,
             "value": 1
         },
         {
-            "source": "Heilongjiang",
-            "target": "Gansu",
+            "source": 8,
+            "target": 28,
             "value": 1
         },
         {
-            "source": "Shanghai",
-            "target": "Beijing",
+            "source": 9,
+            "target": 0,
             "value": 6
         },
         {
-            "source": "Shanghai",
-            "target": "Tianjin",
+            "source": 9,
+            "target": 1,
             "value": 3
         },
         {
-            "source": "Shanghai",
-            "target": "Hebei",
+            "source": 9,
+            "target": 2,
             "value": 80
         },
         {
-            "source": "Shanghai",
-            "target": "Shanxi",
+            "source": 9,
+            "target": 3,
             "value": 47
         },
         {
-            "source": "Shanghai",
-            "target": "Neimenggu",
+            "source": 9,
+            "target": 4,
             "value": 15
         },
         {
-            "source": "Shanghai",
-            "target": "Liaoning",
+            "source": 9,
+            "target": 6,
             "value": 26
         },
         {
-            "source": "Shanghai",
-            "target": "Jilin",
+            "source": 9,
+            "target": 7,
             "value": 9
         },
         {
-            "source": "Shanghai",
-            "target": "Heilongjiang",
+            "source": 9,
+            "target": 8,
             "value": 1
         },
         {
-            "source": "Shanghai",
-            "target": "Shanghai",
+            "source": 9,
+            "target": 9,
             "value": 119
         },
         {
-            "source": "Shanghai",
-            "target": "Jiangsu",
+            "source": 9,
+            "target": 10,
             "value": 67
         },
         {
-            "source": "Shanghai",
-            "target": "Zhejiang",
+            "source": 9,
+            "target": 11,
             "value": 18
         },
         {
-            "source": "Shanghai",
-            "target": "Anhui",
+            "source": 9,
+            "target": 12,
             "value": 24
         },
         {
-            "source": "Shanghai",
-            "target": "Fujian",
+            "source": 9,
+            "target": 13,
             "value": 5
         },
         {
-            "source": "Shanghai",
-            "target": "Jiangxi",
+            "source": 9,
+            "target": 14,
             "value": 4
         },
         {
-            "source": "Shanghai",
-            "target": "Shandong",
+            "source": 9,
+            "target": 15,
             "value": 84
         },
         {
-            "source": "Shanghai",
-            "target": "Henan",
+            "source": 9,
+            "target": 16,
             "value": 349
         },
         {
-            "source": "Shanghai",
-            "target": "Hubei",
+            "source": 9,
+            "target": 17,
             "value": 6
         },
         {
-            "source": "Shanghai",
-            "target": "Hunan",
+            "source": 9,
+            "target": 18,
             "value": 5
         },
         {
-            "source": "Shanghai",
-            "target": "Guangdong",
+            "source": 9,
+            "target": 19,
             "value": 25
         },
         {
-            "source": "Shanghai",
-            "target": "Guangxi",
+            "source": 9,
+            "target": 20,
             "value": 3
         },
         {
-            "source": "Shanghai",
-            "target": "Chongqing",
+            "source": 9,
+            "target": 22,
             "value": 1
         },
         {
-            "source": "Shanghai",
-            "target": "Sichuan",
+            "source": 9,
+            "target": 23,
             "value": 5
         },
         {
-            "source": "Shanghai",
-            "target": "Shaanxi",
+            "source": 9,
+            "target": 27,
             "value": 6
         },
         {
-            "source": "Shanghai",
-            "target": "Ningxia",
+            "source": 9,
+            "target": 30,
             "value": 1
         },
         {
-            "source": "Shanghai",
-            "target": "Xinjiang",
+            "source": 9,
+            "target": 31,
             "value": 2
         },
         {
-            "source": "Jiangsu",
-            "target": "Beijing",
+            "source": 10,
+            "target": 0,
             "value": 15
         },
         {
-            "source": "Jiangsu",
-            "target": "Tianjin",
+            "source": 10,
+            "target": 1,
             "value": 9
         },
         {
-            "source": "Jiangsu",
-            "target": "Hebei",
+            "source": 10,
+            "target": 2,
             "value": 136
         },
         {
-            "source": "Jiangsu",
-            "target": "Shanxi",
+            "source": 10,
+            "target": 3,
             "value": 41
         },
         {
-            "source": "Jiangsu",
-            "target": "Neimenggu",
+            "source": 10,
+            "target": 4,
             "value": 6
         },
         {
-            "source": "Jiangsu",
-            "target": "Liaoning",
+            "source": 10,
+            "target": 6,
             "value": 5
         },
         {
-            "source": "Jiangsu",
-            "target": "Jilin",
+            "source": 10,
+            "target": 7,
             "value": 4
         },
         {
-            "source": "Jiangsu",
-            "target": "Heilongjiang",
+            "source": 10,
+            "target": 8,
             "value": 7
         },
         {
-            "source": "Jiangsu",
-            "target": "Shanghai",
+            "source": 10,
+            "target": 9,
             "value": 23
         },
         {
-            "source": "Jiangsu",
-            "target": "Jiangsu",
+            "source": 10,
+            "target": 10,
             "value": 1491
         },
         {
-            "source": "Jiangsu",
-            "target": "Zhejiang",
+            "source": 10,
+            "target": 11,
             "value": 25
         },
         {
-            "source": "Jiangsu",
-            "target": "Anhui",
+            "source": 10,
+            "target": 12,
             "value": 131
         },
         {
-            "source": "Jiangsu",
-            "target": "Fujian",
+            "source": 10,
+            "target": 13,
             "value": 6
         },
         {
-            "source": "Jiangsu",
-            "target": "Jiangxi",
+            "source": 10,
+            "target": 14,
             "value": 10
         },
         {
-            "source": "Jiangsu",
-            "target": "Shandong",
+            "source": 10,
+            "target": 15,
             "value": 418
         },
         {
-            "source": "Jiangsu",
-            "target": "Henan",
+            "source": 10,
+            "target": 16,
             "value": 397
         },
         {
-            "source": "Jiangsu",
-            "target": "Hubei",
+            "source": 10,
+            "target": 17,
             "value": 12
         },
         {
-            "source": "Jiangsu",
-            "target": "Hunan",
+            "source": 10,
+            "target": 18,
             "value": 8
         },
         {
-            "source": "Jiangsu",
-            "target": "Guangdong",
+            "source": 10,
+            "target": 19,
             "value": 10
         },
         {
-            "source": "Jiangsu",
-            "target": "Guangxi",
+            "source": 10,
+            "target": 20,
             "value": 2
         },
         {
-            "source": "Jiangsu",
-            "target": "Chongqing",
+            "source": 10,
+            "target": 22,
             "value": 3
         },
         {
-            "source": "Jiangsu",
-            "target": "Sichuan",
+            "source": 10,
+            "target": 23,
             "value": 16
         },
         {
-            "source": "Jiangsu",
-            "target": "Guizhou",
+            "source": 10,
+            "target": 24,
             "value": 8
         },
         {
-            "source": "Jiangsu",
-            "target": "Yunnan",
+            "source": 10,
+            "target": 25,
             "value": 1
         },
         {
-            "source": "Jiangsu",
-            "target": "Shaanxi",
+            "source": 10,
+            "target": 27,
             "value": 6
         },
         {
-            "source": "Jiangsu",
-            "target": "Gansu",
+            "source": 10,
+            "target": 28,
             "value": 3
         },
         {
-            "source": "Jiangsu",
-            "target": "Qinghai",
+            "source": 10,
+            "target": 29,
             "value": 2
         },
         {
-            "source": "Jiangsu",
-            "target": "Xinjiang",
+            "source": 10,
+            "target": 31,
             "value": 4
         },
         {
-            "source": "Jiangsu",
-            "target": "Taiwan",
+            "source": 10,
+            "target": 32,
             "value": 2
         },
         {
-            "source": "Zhejiang",
-            "target": "Beijing",
+            "source": 11,
+            "target": 0,
             "value": 15
         },
         {
-            "source": "Zhejiang",
-            "target": "Tianjin",
+            "source": 11,
+            "target": 1,
             "value": 5
         },
         {
-            "source": "Zhejiang",
-            "target": "Hebei",
+            "source": 11,
+            "target": 2,
             "value": 113
         },
         {
-            "source": "Zhejiang",
-            "target": "Shanxi",
+            "source": 11,
+            "target": 3,
             "value": 9
         },
         {
-            "source": "Zhejiang",
-            "target": "Neimenggu",
+            "source": 11,
+            "target": 4,
             "value": 1
         },
         {
-            "source": "Zhejiang",
-            "target": "Liaoning",
+            "source": 11,
+            "target": 6,
             "value": 1
         },
         {
-            "source": "Zhejiang",
-            "target": "Jilin",
+            "source": 11,
+            "target": 7,
             "value": 1
         },
         {
-            "source": "Zhejiang",
-            "target": "Heilongjiang",
+            "source": 11,
+            "target": 8,
             "value": 2
         },
         {
-            "source": "Zhejiang",
-            "target": "Shanghai",
+            "source": 11,
+            "target": 9,
             "value": 18
         },
         {
-            "source": "Zhejiang",
-            "target": "Jiangsu",
+            "source": 11,
+            "target": 10,
             "value": 59
         },
         {
-            "source": "Zhejiang",
-            "target": "Zhejiang",
+            "source": 11,
+            "target": 11,
             "value": 546
         },
         {
-            "source": "Zhejiang",
-            "target": "Anhui",
+            "source": 11,
+            "target": 12,
             "value": 29
         },
         {
-            "source": "Zhejiang",
-            "target": "Fujian",
+            "source": 11,
+            "target": 13,
             "value": 28
         },
         {
-            "source": "Zhejiang",
-            "target": "Jiangxi",
+            "source": 11,
+            "target": 14,
             "value": 10
         },
         {
-            "source": "Zhejiang",
-            "target": "Shandong",
+            "source": 11,
+            "target": 15,
             "value": 304
         },
         {
-            "source": "Zhejiang",
-            "target": "Henan",
+            "source": 11,
+            "target": 16,
             "value": 78
         },
         {
-            "source": "Zhejiang",
-            "target": "Hubei",
+            "source": 11,
+            "target": 17,
             "value": 5
         },
         {
-            "source": "Zhejiang",
-            "target": "Hunan",
+            "source": 11,
+            "target": 18,
             "value": 3
         },
         {
-            "source": "Zhejiang",
-            "target": "Guangdong",
+            "source": 11,
+            "target": 19,
             "value": 9
         },
         {
-            "source": "Zhejiang",
-            "target": "Chongqing",
+            "source": 11,
+            "target": 22,
             "value": 1
         },
         {
-            "source": "Zhejiang",
-            "target": "Sichuan",
+            "source": 11,
+            "target": 23,
             "value": 3
         },
         {
-            "source": "Zhejiang",
-            "target": "Guizhou",
+            "source": 11,
+            "target": 24,
             "value": 2
         },
         {
-            "source": "Zhejiang",
-            "target": "Yunnan",
+            "source": 11,
+            "target": 25,
             "value": 1
         },
         {
-            "source": "Zhejiang",
-            "target": "Shaanxi",
+            "source": 11,
+            "target": 27,
             "value": 4
         },
         {
-            "source": "Zhejiang",
-            "target": "Gansu",
+            "source": 11,
+            "target": 28,
             "value": 1
         },
         {
-            "source": "Zhejiang",
-            "target": "Ningxia",
+            "source": 11,
+            "target": 30,
             "value": 2
         },
         {
-            "source": "Zhejiang",
-            "target": "Xinjiang",
+            "source": 11,
+            "target": 31,
             "value": 2
         },
         {
-            "source": "Anhui",
-            "target": "Beijing",
+            "source": 12,
+            "target": 0,
             "value": 13
         },
         {
-            "source": "Anhui",
-            "target": "Tianjin",
+            "source": 12,
+            "target": 1,
             "value": 5
         },
         {
-            "source": "Anhui",
-            "target": "Hebei",
+            "source": 12,
+            "target": 2,
             "value": 56
         },
         {
-            "source": "Anhui",
-            "target": "Shanxi",
+            "source": 12,
+            "target": 3,
             "value": 5
         },
         {
-            "source": "Anhui",
-            "target": "Neimenggu",
+            "source": 12,
+            "target": 4,
             "value": 1
         },
         {
-            "source": "Anhui",
-            "target": "Liaoning",
+            "source": 12,
+            "target": 6,
             "value": 2
         },
         {
-            "source": "Anhui",
-            "target": "Jilin",
+            "source": 12,
+            "target": 7,
             "value": 1
         },
         {
-            "source": "Anhui",
-            "target": "Heilongjiang",
+            "source": 12,
+            "target": 8,
             "value": 4
         },
         {
-            "source": "Anhui",
-            "target": "Shanghai",
+            "source": 12,
+            "target": 9,
             "value": 28
         },
         {
-            "source": "Anhui",
-            "target": "Jiangsu",
+            "source": 12,
+            "target": 10,
             "value": 158
         },
         {
-            "source": "Anhui",
-            "target": "Zhejiang",
+            "source": 12,
+            "target": 11,
             "value": 48
         },
         {
-            "source": "Anhui",
-            "target": "Anhui",
+            "source": 12,
+            "target": 12,
             "value": 957
         },
         {
-            "source": "Anhui",
-            "target": "Fujian",
+            "source": 12,
+            "target": 13,
             "value": 8
         },
         {
-            "source": "Anhui",
-            "target": "Jiangxi",
+            "source": 12,
+            "target": 14,
             "value": 4
         },
         {
-            "source": "Anhui",
-            "target": "Shandong",
+            "source": 12,
+            "target": 15,
             "value": 65
         },
         {
-            "source": "Anhui",
-            "target": "Henan",
+            "source": 12,
+            "target": 16,
             "value": 72
         },
         {
-            "source": "Anhui",
-            "target": "Hubei",
+            "source": 12,
+            "target": 17,
             "value": 5
         },
         {
-            "source": "Anhui",
-            "target": "Hunan",
+            "source": 12,
+            "target": 18,
             "value": 1
         },
         {
-            "source": "Anhui",
-            "target": "Guangdong",
+            "source": 12,
+            "target": 19,
             "value": 10
         },
         {
-            "source": "Anhui",
-            "target": "Guangxi",
+            "source": 12,
+            "target": 20,
             "value": 1
         },
         {
-            "source": "Anhui",
-            "target": "Hainan",
+            "source": 12,
+            "target": 21,
             "value": 2
         },
         {
-            "source": "Anhui",
-            "target": "Sichuan",
+            "source": 12,
+            "target": 23,
             "value": 12
         },
         {
-            "source": "Anhui",
-            "target": "Guizhou",
+            "source": 12,
+            "target": 24,
             "value": 1
         },
         {
-            "source": "Anhui",
-            "target": "Yunnan",
+            "source": 12,
+            "target": 25,
             "value": 2
         },
         {
-            "source": "Anhui",
-            "target": "Shaanxi",
+            "source": 12,
+            "target": 27,
             "value": 8
         },
         {
-            "source": "Anhui",
-            "target": "Gansu",
+            "source": 12,
+            "target": 28,
             "value": 2
         },
         {
-            "source": "Anhui",
-            "target": "Qinghai",
+            "source": 12,
+            "target": 29,
             "value": 1
         },
         {
-            "source": "Anhui",
-            "target": "Xinjiang",
+            "source": 12,
+            "target": 31,
             "value": 7
         },
         {
-            "source": "Fujian",
-            "target": "Beijing",
+            "source": 13,
+            "target": 0,
             "value": 12
         },
         {
-            "source": "Fujian",
-            "target": "Tianjin",
+            "source": 13,
+            "target": 1,
             "value": 2
         },
         {
-            "source": "Fujian",
-            "target": "Hebei",
+            "source": 13,
+            "target": 2,
             "value": 8
         },
         {
-            "source": "Fujian",
-            "target": "Shanxi",
+            "source": 13,
+            "target": 3,
             "value": 4
         },
         {
-            "source": "Fujian",
-            "target": "Neimenggu",
+            "source": 13,
+            "target": 4,
             "value": 3
         },
         {
-            "source": "Fujian",
-            "target": "Liaoning",
+            "source": 13,
+            "target": 6,
             "value": 7
         },
         {
-            "source": "Fujian",
-            "target": "Jilin",
+            "source": 13,
+            "target": 7,
             "value": 4
         },
         {
-            "source": "Fujian",
-            "target": "Heilongjiang",
+            "source": 13,
+            "target": 8,
             "value": 2
         },
         {
-            "source": "Fujian",
-            "target": "Shanghai",
+            "source": 13,
+            "target": 9,
             "value": 9
         },
         {
-            "source": "Fujian",
-            "target": "Jiangsu",
+            "source": 13,
+            "target": 10,
             "value": 23
         },
         {
-            "source": "Fujian",
-            "target": "Zhejiang",
+            "source": 13,
+            "target": 11,
             "value": 21
         },
         {
-            "source": "Fujian",
-            "target": "Anhui",
+            "source": 13,
+            "target": 12,
             "value": 10
         },
         {
-            "source": "Fujian",
-            "target": "Fujian",
+            "source": 13,
+            "target": 13,
             "value": 1152
         },
         {
-            "source": "Fujian",
-            "target": "Jiangxi",
+            "source": 13,
+            "target": 14,
             "value": 13
         },
         {
-            "source": "Fujian",
-            "target": "Shandong",
+            "source": 13,
+            "target": 15,
             "value": 18
         },
         {
-            "source": "Fujian",
-            "target": "Henan",
+            "source": 13,
+            "target": 16,
             "value": 13
         },
         {
-            "source": "Fujian",
-            "target": "Hubei",
+            "source": 13,
+            "target": 17,
             "value": 9
         },
         {
-            "source": "Fujian",
-            "target": "Hunan",
+            "source": 13,
+            "target": 18,
             "value": 6
         },
         {
-            "source": "Fujian",
-            "target": "Guangdong",
+            "source": 13,
+            "target": 19,
             "value": 64
         },
         {
-            "source": "Fujian",
-            "target": "Guangxi",
+            "source": 13,
+            "target": 20,
             "value": 2
         },
         {
-            "source": "Fujian",
-            "target": "Chongqing",
+            "source": 13,
+            "target": 22,
             "value": 8
         },
         {
-            "source": "Fujian",
-            "target": "Sichuan",
+            "source": 13,
+            "target": 23,
             "value": 15
         },
         {
-            "source": "Fujian",
-            "target": "Guizhou",
+            "source": 13,
+            "target": 24,
             "value": 5
         },
         {
-            "source": "Fujian",
-            "target": "Yunnan",
+            "source": 13,
+            "target": 25,
             "value": 8
         },
         {
-            "source": "Fujian",
-            "target": "Xizang",
+            "source": 13,
+            "target": 26,
             "value": 1
         },
         {
-            "source": "Fujian",
-            "target": "Shaanxi",
+            "source": 13,
+            "target": 27,
             "value": 1
         },
         {
-            "source": "Fujian",
-            "target": "Gansu",
+            "source": 13,
+            "target": 28,
             "value": 3
         },
         {
-            "source": "Fujian",
-            "target": "Qinghai",
+            "source": 13,
+            "target": 29,
             "value": 2
         },
         {
-            "source": "Jiangxi",
-            "target": "Beijing",
+            "source": 14,
+            "target": 0,
             "value": 6
         },
         {
-            "source": "Jiangxi",
-            "target": "Hebei",
+            "source": 14,
+            "target": 2,
             "value": 16
         },
         {
-            "source": "Jiangxi",
-            "target": "Shanxi",
+            "source": 14,
+            "target": 3,
             "value": 3
         },
         {
-            "source": "Jiangxi",
-            "target": "Shanghai",
+            "source": 14,
+            "target": 9,
             "value": 14
         },
         {
-            "source": "Jiangxi",
-            "target": "Jiangsu",
+            "source": 14,
+            "target": 10,
             "value": 29
         },
         {
-            "source": "Jiangxi",
-            "target": "Zhejiang",
+            "source": 14,
+            "target": 11,
             "value": 29
         },
         {
-            "source": "Jiangxi",
-            "target": "Anhui",
+            "source": 14,
+            "target": 12,
             "value": 14
         },
         {
-            "source": "Jiangxi",
-            "target": "Fujian",
+            "source": 14,
+            "target": 13,
             "value": 49
         },
         {
-            "source": "Jiangxi",
-            "target": "Jiangxi",
+            "source": 14,
+            "target": 14,
             "value": 449
         },
         {
-            "source": "Jiangxi",
-            "target": "Shandong",
+            "source": 14,
+            "target": 15,
             "value": 20
         },
         {
-            "source": "Jiangxi",
-            "target": "Henan",
+            "source": 14,
+            "target": 16,
             "value": 10
         },
         {
-            "source": "Jiangxi",
-            "target": "Hubei",
+            "source": 14,
+            "target": 17,
             "value": 9
         },
         {
-            "source": "Jiangxi",
-            "target": "Hunan",
+            "source": 14,
+            "target": 18,
             "value": 11
         },
         {
-            "source": "Jiangxi",
-            "target": "Guangdong",
+            "source": 14,
+            "target": 19,
             "value": 43
         },
         {
-            "source": "Jiangxi",
-            "target": "Guangxi",
+            "source": 14,
+            "target": 20,
             "value": 4
         },
         {
-            "source": "Jiangxi",
-            "target": "Chongqing",
+            "source": 14,
+            "target": 22,
             "value": 4
         },
         {
-            "source": "Jiangxi",
-            "target": "Sichuan",
+            "source": 14,
+            "target": 23,
             "value": 5
         },
         {
-            "source": "Jiangxi",
-            "target": "Guizhou",
+            "source": 14,
+            "target": 24,
             "value": 3
         },
         {
-            "source": "Jiangxi",
-            "target": "Yunnan",
+            "source": 14,
+            "target": 25,
             "value": 2
         },
         {
-            "source": "Jiangxi",
-            "target": "Shaanxi",
+            "source": 14,
+            "target": 27,
             "value": 2
         },
         {
-            "source": "Jiangxi",
-            "target": "Gansu",
+            "source": 14,
+            "target": 28,
             "value": 1
         },
         {
-            "source": "Jiangxi",
-            "target": "Xinjiang",
+            "source": 14,
+            "target": 31,
             "value": 2
         },
         {
-            "source": "Shandong",
-            "target": "Beijing",
+            "source": 15,
+            "target": 0,
             "value": 19
         },
         {
-            "source": "Shandong",
-            "target": "Tianjin",
+            "source": 15,
+            "target": 1,
             "value": 5
         },
         {
-            "source": "Shandong",
-            "target": "Hebei",
+            "source": 15,
+            "target": 2,
             "value": 25
         },
         {
-            "source": "Shandong",
-            "target": "Shanxi",
+            "source": 15,
+            "target": 3,
             "value": 6
         },
         {
-            "source": "Shandong",
-            "target": "Neimenggu",
+            "source": 15,
+            "target": 4,
             "value": 5
         },
         {
-            "source": "Shandong",
-            "target": "Liaoning",
+            "source": 15,
+            "target": 6,
             "value": 4
         },
         {
-            "source": "Shandong",
-            "target": "Jilin",
+            "source": 15,
+            "target": 7,
             "value": 12
         },
         {
-            "source": "Shandong",
-            "target": "Heilongjiang",
+            "source": 15,
+            "target": 8,
             "value": 10
         },
         {
-            "source": "Shandong",
-            "target": "Shanghai",
+            "source": 15,
+            "target": 9,
             "value": 10
         },
         {
-            "source": "Shandong",
-            "target": "Jiangsu",
+            "source": 15,
+            "target": 10,
             "value": 26
         },
         {
-            "source": "Shandong",
-            "target": "Zhejiang",
+            "source": 15,
+            "target": 11,
             "value": 13
         },
         {
-            "source": "Shandong",
-            "target": "Anhui",
+            "source": 15,
+            "target": 12,
             "value": 13
         },
         {
-            "source": "Shandong",
-            "target": "Fujian",
+            "source": 15,
+            "target": 13,
             "value": 4
         },
         {
-            "source": "Shandong",
-            "target": "Jiangxi",
+            "source": 15,
+            "target": 14,
             "value": 1
         },
         {
-            "source": "Shandong",
-            "target": "Shandong",
+            "source": 15,
+            "target": 15,
             "value": 1018
         },
         {
-            "source": "Shandong",
-            "target": "Henan",
+            "source": 15,
+            "target": 16,
             "value": 17
         },
         {
-            "source": "Shandong",
-            "target": "Hubei",
+            "source": 15,
+            "target": 17,
             "value": 2
         },
         {
-            "source": "Shandong",
-            "target": "Hunan",
+            "source": 15,
+            "target": 18,
             "value": 1
         },
         {
-            "source": "Shandong",
-            "target": "Guangdong",
+            "source": 15,
+            "target": 19,
             "value": 11
         },
         {
-            "source": "Shandong",
-            "target": "Guangxi",
+            "source": 15,
+            "target": 20,
             "value": 1
         },
         {
-            "source": "Shandong",
-            "target": "Chongqing",
+            "source": 15,
+            "target": 22,
             "value": 3
         },
         {
-            "source": "Shandong",
-            "target": "Sichuan",
+            "source": 15,
+            "target": 23,
             "value": 7
         },
         {
-            "source": "Shandong",
-            "target": "Guizhou",
+            "source": 15,
+            "target": 24,
             "value": 2
         },
         {
-            "source": "Shandong",
-            "target": "Yunnan",
+            "source": 15,
+            "target": 25,
             "value": 1
         },
         {
-            "source": "Shandong",
-            "target": "Shaanxi",
+            "source": 15,
+            "target": 27,
             "value": 3
         },
         {
-            "source": "Shandong",
-            "target": "Gansu",
+            "source": 15,
+            "target": 28,
             "value": 3
         },
         {
-            "source": "Shandong",
-            "target": "Xinjiang",
+            "source": 15,
+            "target": 31,
             "value": 3
         },
         {
-            "source": "Henan",
-            "target": "Beijing",
+            "source": 16,
+            "target": 0,
             "value": 13
         },
         {
-            "source": "Henan",
-            "target": "Tianjin",
+            "source": 16,
+            "target": 1,
             "value": 4
         },
         {
-            "source": "Henan",
-            "target": "Hebei",
+            "source": 16,
+            "target": 2,
             "value": 28
         },
         {
-            "source": "Henan",
-            "target": "Shanxi",
+            "source": 16,
+            "target": 3,
             "value": 12
         },
         {
-            "source": "Henan",
-            "target": "Neimenggu",
+            "source": 16,
+            "target": 4,
             "value": 2
         },
         {
-            "source": "Henan",
-            "target": "Liaoning",
+            "source": 16,
+            "target": 6,
             "value": 2
         },
         {
-            "source": "Henan",
-            "target": "Jilin",
+            "source": 16,
+            "target": 7,
             "value": 3
         },
         {
-            "source": "Henan",
-            "target": "Heilongjiang",
+            "source": 16,
+            "target": 8,
             "value": 2
         },
         {
-            "source": "Henan",
-            "target": "Shanghai",
+            "source": 16,
+            "target": 9,
             "value": 9
         },
         {
-            "source": "Henan",
-            "target": "Jiangsu",
+            "source": 16,
+            "target": 10,
             "value": 32
         },
         {
-            "source": "Henan",
-            "target": "Zhejiang",
+            "source": 16,
+            "target": 11,
             "value": 21
         },
         {
-            "source": "Henan",
-            "target": "Anhui",
+            "source": 16,
+            "target": 12,
             "value": 22
         },
         {
-            "source": "Henan",
-            "target": "Fujian",
+            "source": 16,
+            "target": 13,
             "value": 4
         },
         {
-            "source": "Henan",
-            "target": "Jiangxi",
+            "source": 16,
+            "target": 14,
             "value": 5
         },
         {
-            "source": "Henan",
-            "target": "Shandong",
+            "source": 16,
+            "target": 15,
             "value": 32
         },
         {
-            "source": "Henan",
-            "target": "Henan",
+            "source": 16,
+            "target": 16,
             "value": 1230
         },
         {
-            "source": "Henan",
-            "target": "Hubei",
+            "source": 16,
+            "target": 17,
             "value": 24
         },
         {
-            "source": "Henan",
-            "target": "Hunan",
+            "source": 16,
+            "target": 18,
             "value": 6
         },
         {
-            "source": "Henan",
-            "target": "Guangdong",
+            "source": 16,
+            "target": 19,
             "value": 26
         },
         {
-            "source": "Henan",
-            "target": "Guangxi",
+            "source": 16,
+            "target": 20,
             "value": 3
         },
         {
-            "source": "Henan",
-            "target": "Chongqing",
+            "source": 16,
+            "target": 22,
             "value": 5
         },
         {
-            "source": "Henan",
-            "target": "Sichuan",
+            "source": 16,
+            "target": 23,
             "value": 21
         },
         {
-            "source": "Henan",
-            "target": "Guizhou",
+            "source": 16,
+            "target": 24,
             "value": 4
         },
         {
-            "source": "Henan",
-            "target": "Yunnan",
+            "source": 16,
+            "target": 25,
             "value": 3
         },
         {
-            "source": "Henan",
-            "target": "Shaanxi",
+            "source": 16,
+            "target": 27,
             "value": 23
         },
         {
-            "source": "Henan",
-            "target": "Gansu",
+            "source": 16,
+            "target": 28,
             "value": 4
         },
         {
-            "source": "Henan",
-            "target": "Qinghai",
+            "source": 16,
+            "target": 29,
             "value": 1
         },
         {
-            "source": "Henan",
-            "target": "Ningxia",
+            "source": 16,
+            "target": 30,
             "value": 1
         },
         {
-            "source": "Henan",
-            "target": "Xinjiang",
+            "source": 16,
+            "target": 31,
             "value": 18
         },
         {
-            "source": "Hubei",
-            "target": "Beijing",
+            "source": 17,
+            "target": 0,
             "value": 10
         },
         {
-            "source": "Hubei",
-            "target": "Tianjin",
+            "source": 17,
+            "target": 1,
             "value": 4
         },
         {
-            "source": "Hubei",
-            "target": "Hebei",
+            "source": 17,
+            "target": 2,
             "value": 79
         },
         {
-            "source": "Hubei",
-            "target": "Shanxi",
+            "source": 17,
+            "target": 3,
             "value": 10
         },
         {
-            "source": "Hubei",
-            "target": "Neimenggu",
+            "source": 17,
+            "target": 4,
             "value": 1
         },
         {
-            "source": "Hubei",
-            "target": "Liaoning",
+            "source": 17,
+            "target": 6,
             "value": 2
         },
         {
-            "source": "Hubei",
-            "target": "Jilin",
+            "source": 17,
+            "target": 7,
             "value": 2
         },
         {
-            "source": "Hubei",
-            "target": "Heilongjiang",
+            "source": 17,
+            "target": 8,
             "value": 2
         },
         {
-            "source": "Hubei",
-            "target": "Shanghai",
+            "source": 17,
+            "target": 9,
             "value": 12
         },
         {
-            "source": "Hubei",
-            "target": "Jiangsu",
+            "source": 17,
+            "target": 10,
             "value": 18
         },
         {
-            "source": "Hubei",
-            "target": "Zhejiang",
+            "source": 17,
+            "target": 11,
             "value": 12
         },
         {
-            "source": "Hubei",
-            "target": "Anhui",
+            "source": 17,
+            "target": 12,
             "value": 20
         },
         {
-            "source": "Hubei",
-            "target": "Fujian",
+            "source": 17,
+            "target": 13,
             "value": 9
         },
         {
-            "source": "Hubei",
-            "target": "Jiangxi",
+            "source": 17,
+            "target": 14,
             "value": 8
         },
         {
-            "source": "Hubei",
-            "target": "Shandong",
+            "source": 17,
+            "target": 15,
             "value": 27
         },
         {
-            "source": "Hubei",
-            "target": "Henan",
+            "source": 17,
+            "target": 16,
             "value": 138
         },
         {
-            "source": "Hubei",
-            "target": "Hubei",
+            "source": 17,
+            "target": 17,
             "value": 498
         },
         {
-            "source": "Hubei",
-            "target": "Hunan",
+            "source": 17,
+            "target": 18,
             "value": 6
         },
         {
-            "source": "Hubei",
-            "target": "Guangdong",
+            "source": 17,
+            "target": 19,
             "value": 44
         },
         {
-            "source": "Hubei",
-            "target": "Guangxi",
+            "source": 17,
+            "target": 20,
             "value": 3
         },
         {
-            "source": "Hubei",
-            "target": "Chongqing",
+            "source": 17,
+            "target": 22,
             "value": 10
         },
         {
-            "source": "Hubei",
-            "target": "Sichuan",
+            "source": 17,
+            "target": 23,
             "value": 15
         },
         {
-            "source": "Hubei",
-            "target": "Guizhou",
+            "source": 17,
+            "target": 24,
             "value": 6
         },
         {
-            "source": "Hubei",
-            "target": "Yunnan",
+            "source": 17,
+            "target": 25,
             "value": 3
         },
         {
-            "source": "Hubei",
-            "target": "Shaanxi",
+            "source": 17,
+            "target": 27,
             "value": 4
         },
         {
-            "source": "Hubei",
-            "target": "Xinjiang",
+            "source": 17,
+            "target": 31,
             "value": 4
         },
         {
-            "source": "Hunan",
-            "target": "Beijing",
+            "source": 18,
+            "target": 0,
             "value": 6
         },
         {
-            "source": "Hunan",
-            "target": "Hebei",
+            "source": 18,
+            "target": 2,
             "value": 36
         },
         {
-            "source": "Hunan",
-            "target": "Shanxi",
+            "source": 18,
+            "target": 3,
             "value": 3
         },
         {
-            "source": "Hunan",
-            "target": "Liaoning",
+            "source": 18,
+            "target": 6,
             "value": 3
         },
         {
-            "source": "Hunan",
-            "target": "Shanghai",
+            "source": 18,
+            "target": 9,
             "value": 6
         },
         {
-            "source": "Hunan",
-            "target": "Jiangsu",
+            "source": 18,
+            "target": 10,
             "value": 13
         },
         {
-            "source": "Hunan",
-            "target": "Zhejiang",
+            "source": 18,
+            "target": 11,
             "value": 15
         },
         {
-            "source": "Hunan",
-            "target": "Anhui",
+            "source": 18,
+            "target": 12,
             "value": 7
         },
         {
-            "source": "Hunan",
-            "target": "Fujian",
+            "source": 18,
+            "target": 13,
             "value": 5
         },
         {
-            "source": "Hunan",
-            "target": "Jiangxi",
+            "source": 18,
+            "target": 14,
             "value": 9
         },
         {
-            "source": "Hunan",
-            "target": "Shandong",
+            "source": 18,
+            "target": 15,
             "value": 10
         },
         {
-            "source": "Hunan",
-            "target": "Henan",
+            "source": 18,
+            "target": 16,
             "value": 16
         },
         {
-            "source": "Hunan",
-            "target": "Hubei",
+            "source": 18,
+            "target": 17,
             "value": 8
         },
         {
-            "source": "Hunan",
-            "target": "Hunan",
+            "source": 18,
+            "target": 18,
             "value": 480
         },
         {
-            "source": "Hunan",
-            "target": "Guangdong",
+            "source": 18,
+            "target": 19,
             "value": 61
         },
         {
-            "source": "Hunan",
-            "target": "Guangxi",
+            "source": 18,
+            "target": 20,
             "value": 6
         },
         {
-            "source": "Hunan",
-            "target": "Hainan",
+            "source": 18,
+            "target": 21,
             "value": 1
         },
         {
-            "source": "Hunan",
-            "target": "Chongqing",
+            "source": 18,
+            "target": 22,
             "value": 6
         },
         {
-            "source": "Hunan",
-            "target": "Sichuan",
+            "source": 18,
+            "target": 23,
             "value": 7
         },
         {
-            "source": "Hunan",
-            "target": "Guizhou",
+            "source": 18,
+            "target": 24,
             "value": 9
         },
         {
-            "source": "Hunan",
-            "target": "Yunnan",
+            "source": 18,
+            "target": 25,
             "value": 4
         },
         {
-            "source": "Hunan",
-            "target": "Shaanxi",
+            "source": 18,
+            "target": 27,
             "value": 1
         },
         {
-            "source": "Hunan",
-            "target": "Gansu",
+            "source": 18,
+            "target": 28,
             "value": 1
         },
         {
-            "source": "Hunan",
-            "target": "Xinjiang",
+            "source": 18,
+            "target": 31,
             "value": 1
         },
         {
-            "source": "Guangdong",
-            "target": "Beijing",
+            "source": 19,
+            "target": 0,
             "value": 3
         },
         {
-            "source": "Guangdong",
-            "target": "Tianjin",
+            "source": 19,
+            "target": 1,
             "value": 3
         },
         {
-            "source": "Guangdong",
-            "target": "Hebei",
+            "source": 19,
+            "target": 2,
             "value": 11
         },
         {
-            "source": "Guangdong",
-            "target": "Neimenggu",
+            "source": 19,
+            "target": 4,
             "value": 1
         },
         {
-            "source": "Guangdong",
-            "target": "Liaoning",
+            "source": 19,
+            "target": 6,
             "value": 4
         },
         {
-            "source": "Guangdong",
-            "target": "Shanghai",
+            "source": 19,
+            "target": 9,
             "value": 2
         },
         {
-            "source": "Guangdong",
-            "target": "Jiangsu",
+            "source": 19,
+            "target": 10,
             "value": 8
         },
         {
-            "source": "Guangdong",
-            "target": "Zhejiang",
+            "source": 19,
+            "target": 11,
             "value": 11
         },
         {
-            "source": "Guangdong",
-            "target": "Anhui",
+            "source": 19,
+            "target": 12,
             "value": 10
         },
         {
-            "source": "Guangdong",
-            "target": "Fujian",
+            "source": 19,
+            "target": 13,
             "value": 45
         },
         {
-            "source": "Guangdong",
-            "target": "Jiangxi",
+            "source": 19,
+            "target": 14,
             "value": 35
         },
         {
-            "source": "Guangdong",
-            "target": "Shandong",
+            "source": 19,
+            "target": 15,
             "value": 10
         },
         {
-            "source": "Guangdong",
-            "target": "Henan",
+            "source": 19,
+            "target": 16,
             "value": 40
         },
         {
-            "source": "Guangdong",
-            "target": "Hubei",
+            "source": 19,
+            "target": 17,
             "value": 3
         },
         {
-            "source": "Guangdong",
-            "target": "Hunan",
+            "source": 19,
+            "target": 18,
             "value": 54
         },
         {
-            "source": "Guangdong",
-            "target": "Guangdong",
+            "source": 19,
+            "target": 19,
             "value": 1084
         },
         {
-            "source": "Guangdong",
-            "target": "Guangxi",
+            "source": 19,
+            "target": 20,
             "value": 62
         },
         {
-            "source": "Guangdong",
-            "target": "Chongqing",
+            "source": 19,
+            "target": 22,
             "value": 8
         },
         {
-            "source": "Guangdong",
-            "target": "Sichuan",
+            "source": 19,
+            "target": 23,
             "value": 21
         },
         {
-            "source": "Guangdong",
-            "target": "Guizhou",
+            "source": 19,
+            "target": 24,
             "value": 14
         },
         {
-            "source": "Guangdong",
-            "target": "Xinjiang",
+            "source": 19,
+            "target": 31,
             "value": 1
         },
         {
-            "source": "Guangxi",
-            "target": "Hebei",
+            "source": 20,
+            "target": 2,
             "value": 2
         },
         {
-            "source": "Guangxi",
-            "target": "Heilongjiang",
+            "source": 20,
+            "target": 8,
             "value": 1
         },
         {
-            "source": "Guangxi",
-            "target": "Shanghai",
+            "source": 20,
+            "target": 9,
             "value": 1
         },
         {
-            "source": "Guangxi",
-            "target": "Fujian",
+            "source": 20,
+            "target": 13,
             "value": 1
         },
         {
-            "source": "Guangxi",
-            "target": "Jiangxi",
+            "source": 20,
+            "target": 14,
             "value": 2
         },
         {
-            "source": "Guangxi",
-            "target": "Henan",
+            "source": 20,
+            "target": 16,
             "value": 2
         },
         {
-            "source": "Guangxi",
-            "target": "Hunan",
+            "source": 20,
+            "target": 18,
             "value": 1
         },
         {
-            "source": "Guangxi",
-            "target": "Guangdong",
+            "source": 20,
+            "target": 19,
             "value": 14
         },
         {
-            "source": "Guangxi",
-            "target": "Guangxi",
+            "source": 20,
+            "target": 20,
             "value": 57
         },
         {
-            "source": "Guangxi",
-            "target": "Sichuan",
+            "source": 20,
+            "target": 23,
             "value": 1
         },
         {
-            "source": "Guangxi",
-            "target": "Guizhou",
+            "source": 20,
+            "target": 24,
             "value": 1
         },
         {
-            "source": "Hainan",
-            "target": "Beijing",
+            "source": 21,
+            "target": 0,
             "value": 1
         },
         {
-            "source": "Hainan",
-            "target": "Hebei",
+            "source": 21,
+            "target": 2,
             "value": 2
         },
         {
-            "source": "Hainan",
-            "target": "Liaoning",
+            "source": 21,
+            "target": 6,
             "value": 1
         },
         {
-            "source": "Hainan",
-            "target": "Jiangsu",
+            "source": 21,
+            "target": 10,
             "value": 2
         },
         {
-            "source": "Hainan",
-            "target": "Zhejiang",
+            "source": 21,
+            "target": 11,
             "value": 2
         },
         {
-            "source": "Hainan",
-            "target": "Anhui",
+            "source": 21,
+            "target": 12,
             "value": 1
         },
         {
-            "source": "Hainan",
-            "target": "Fujian",
+            "source": 21,
+            "target": 13,
             "value": 3
         },
         {
-            "source": "Hainan",
-            "target": "Shandong",
+            "source": 21,
+            "target": 15,
             "value": 1
         },
         {
-            "source": "Hainan",
-            "target": "Guangdong",
+            "source": 21,
+            "target": 19,
             "value": 9
         },
         {
-            "source": "Hainan",
-            "target": "Guangxi",
+            "source": 21,
+            "target": 20,
             "value": 1
         },
         {
-            "source": "Hainan",
-            "target": "Hainan",
+            "source": 21,
+            "target": 21,
             "value": 20
         },
         {
-            "source": "Hainan",
-            "target": "Guizhou",
+            "source": 21,
+            "target": 24,
             "value": 2
         },
         {
-            "source": "Chongqing",
-            "target": "Beijing",
+            "source": 22,
+            "target": 0,
             "value": 2
         },
         {
-            "source": "Chongqing",
-            "target": "Tianjin",
+            "source": 22,
+            "target": 1,
             "value": 1
         },
         {
-            "source": "Chongqing",
-            "target": "Hebei",
+            "source": 22,
+            "target": 2,
             "value": 15
         },
         {
-            "source": "Chongqing",
-            "target": "Shanxi",
+            "source": 22,
+            "target": 3,
             "value": 3
         },
         {
-            "source": "Chongqing",
-            "target": "Liaoning",
+            "source": 22,
+            "target": 6,
             "value": 1
         },
         {
-            "source": "Chongqing",
-            "target": "Shanghai",
+            "source": 22,
+            "target": 9,
             "value": 5
         },
         {
-            "source": "Chongqing",
-            "target": "Jiangsu",
+            "source": 22,
+            "target": 10,
             "value": 6
         },
         {
-            "source": "Chongqing",
-            "target": "Zhejiang",
+            "source": 22,
+            "target": 11,
             "value": 7
         },
         {
-            "source": "Chongqing",
-            "target": "Anhui",
+            "source": 22,
+            "target": 12,
             "value": 5
         },
         {
-            "source": "Chongqing",
-            "target": "Fujian",
+            "source": 22,
+            "target": 13,
             "value": 6
         },
         {
-            "source": "Chongqing",
-            "target": "Jiangxi",
+            "source": 22,
+            "target": 14,
             "value": 1
         },
         {
-            "source": "Chongqing",
-            "target": "Shandong",
+            "source": 22,
+            "target": 15,
             "value": 8
         },
         {
-            "source": "Chongqing",
-            "target": "Henan",
+            "source": 22,
+            "target": 16,
             "value": 22
         },
         {
-            "source": "Chongqing",
-            "target": "Hubei",
+            "source": 22,
+            "target": 17,
             "value": 8
         },
         {
-            "source": "Chongqing",
-            "target": "Hunan",
+            "source": 22,
+            "target": 18,
             "value": 3
         },
         {
-            "source": "Chongqing",
-            "target": "Guangdong",
+            "source": 22,
+            "target": 19,
             "value": 14
         },
         {
-            "source": "Chongqing",
-            "target": "Chongqing",
+            "source": 22,
+            "target": 22,
             "value": 419
         },
         {
-            "source": "Chongqing",
-            "target": "Sichuan",
+            "source": 22,
+            "target": 23,
             "value": 44
         },
         {
-            "source": "Chongqing",
-            "target": "Guizhou",
+            "source": 22,
+            "target": 24,
             "value": 9
         },
         {
-            "source": "Chongqing",
-            "target": "Yunnan",
+            "source": 22,
+            "target": 25,
             "value": 3
         },
         {
-            "source": "Chongqing",
-            "target": "Shaanxi",
+            "source": 22,
+            "target": 27,
             "value": 2
         },
         {
-            "source": "Chongqing",
-            "target": "Ningxia",
+            "source": 22,
+            "target": 30,
             "value": 1
         },
         {
-            "source": "Chongqing",
-            "target": "Xinjiang",
+            "source": 22,
+            "target": 31,
             "value": 2
         },
         {
-            "source": "Sichuan",
-            "target": "Beijing",
+            "source": 23,
+            "target": 0,
             "value": 21
         },
         {
-            "source": "Sichuan",
-            "target": "Tianjin",
+            "source": 23,
+            "target": 1,
             "value": 7
         },
         {
-            "source": "Sichuan",
-            "target": "Hebei",
+            "source": 23,
+            "target": 2,
             "value": 156
         },
         {
-            "source": "Sichuan",
-            "target": "Shanxi",
+            "source": 23,
+            "target": 3,
             "value": 18
         },
         {
-            "source": "Sichuan",
-            "target": "Neimenggu",
+            "source": 23,
+            "target": 4,
             "value": 5
         },
         {
-            "source": "Sichuan",
-            "target": "Liaoning",
+            "source": 23,
+            "target": 6,
             "value": 5
         },
         {
-            "source": "Sichuan",
-            "target": "Jilin",
+            "source": 23,
+            "target": 7,
             "value": 3
         },
         {
-            "source": "Sichuan",
-            "target": "Heilongjiang",
+            "source": 23,
+            "target": 8,
             "value": 6
         },
         {
-            "source": "Sichuan",
-            "target": "Shanghai",
+            "source": 23,
+            "target": 9,
             "value": 11
         },
         {
-            "source": "Sichuan",
-            "target": "Jiangsu",
+            "source": 23,
+            "target": 10,
             "value": 60
         },
         {
-            "source": "Sichuan",
-            "target": "Zhejiang",
+            "source": 23,
+            "target": 11,
             "value": 21
         },
         {
-            "source": "Sichuan",
-            "target": "Anhui",
+            "source": 23,
+            "target": 12,
             "value": 33
         },
         {
-            "source": "Sichuan",
-            "target": "Fujian",
+            "source": 23,
+            "target": 13,
             "value": 44
         },
         {
-            "source": "Sichuan",
-            "target": "Jiangxi",
+            "source": 23,
+            "target": 14,
             "value": 2
         },
         {
-            "source": "Sichuan",
-            "target": "Shandong",
+            "source": 23,
+            "target": 15,
             "value": 83
         },
         {
-            "source": "Sichuan",
-            "target": "Henan",
+            "source": 23,
+            "target": 16,
             "value": 161
         },
         {
-            "source": "Sichuan",
-            "target": "Hubei",
+            "source": 23,
+            "target": 17,
             "value": 8
         },
         {
-            "source": "Sichuan",
-            "target": "Hunan",
+            "source": 23,
+            "target": 18,
             "value": 7
         },
         {
-            "source": "Sichuan",
-            "target": "Guangdong",
+            "source": 23,
+            "target": 19,
             "value": 54
         },
         {
-            "source": "Sichuan",
-            "target": "Guangxi",
+            "source": 23,
+            "target": 20,
             "value": 3
         },
         {
-            "source": "Sichuan",
-            "target": "Hainan",
+            "source": 23,
+            "target": 21,
             "value": 1
         },
         {
-            "source": "Sichuan",
-            "target": "Chongqing",
+            "source": 23,
+            "target": 22,
             "value": 61
         },
         {
-            "source": "Sichuan",
-            "target": "Sichuan",
+            "source": 23,
+            "target": 23,
             "value": 1005
         },
         {
-            "source": "Sichuan",
-            "target": "Guizhou",
+            "source": 23,
+            "target": 24,
             "value": 11
         },
         {
-            "source": "Sichuan",
-            "target": "Yunnan",
+            "source": 23,
+            "target": 25,
             "value": 12
         },
         {
-            "source": "Sichuan",
-            "target": "Xizang",
+            "source": 23,
+            "target": 26,
             "value": 1
         },
         {
-            "source": "Sichuan",
-            "target": "Shaanxi",
+            "source": 23,
+            "target": 27,
             "value": 14
         },
         {
-            "source": "Sichuan",
-            "target": "Gansu",
+            "source": 23,
+            "target": 28,
             "value": 6
         },
         {
-            "source": "Sichuan",
-            "target": "Ningxia",
+            "source": 23,
+            "target": 30,
             "value": 1
         },
         {
-            "source": "Sichuan",
-            "target": "Xinjiang",
+            "source": 23,
+            "target": 31,
             "value": 18
         },
         {
-            "source": "Guizhou",
-            "target": "Beijing",
+            "source": 24,
+            "target": 0,
             "value": 4
         },
         {
-            "source": "Guizhou",
-            "target": "Tianjin",
+            "source": 24,
+            "target": 1,
             "value": 1
         },
         {
-            "source": "Guizhou",
-            "target": "Hebei",
+            "source": 24,
+            "target": 2,
             "value": 30
         },
         {
-            "source": "Guizhou",
-            "target": "Jilin",
+            "source": 24,
+            "target": 7,
             "value": 1
         },
         {
-            "source": "Guizhou",
-            "target": "Heilongjiang",
+            "source": 24,
+            "target": 8,
             "value": 1
         },
         {
-            "source": "Guizhou",
-            "target": "Shanghai",
+            "source": 24,
+            "target": 9,
             "value": 2
         },
         {
-            "source": "Guizhou",
-            "target": "Jiangsu",
+            "source": 24,
+            "target": 10,
             "value": 26
         },
         {
-            "source": "Guizhou",
-            "target": "Zhejiang",
+            "source": 24,
+            "target": 11,
             "value": 16
         },
         {
-            "source": "Guizhou",
-            "target": "Anhui",
+            "source": 24,
+            "target": 12,
             "value": 5
         },
         {
-            "source": "Guizhou",
-            "target": "Fujian",
+            "source": 24,
+            "target": 13,
             "value": 20
         },
         {
-            "source": "Guizhou",
-            "target": "Jiangxi",
+            "source": 24,
+            "target": 14,
             "value": 3
         },
         {
-            "source": "Guizhou",
-            "target": "Shandong",
+            "source": 24,
+            "target": 15,
             "value": 27
         },
         {
-            "source": "Guizhou",
-            "target": "Henan",
+            "source": 24,
+            "target": 16,
             "value": 47
         },
         {
-            "source": "Guizhou",
-            "target": "Hubei",
+            "source": 24,
+            "target": 17,
             "value": 2
         },
         {
-            "source": "Guizhou",
-            "target": "Hunan",
+            "source": 24,
+            "target": 18,
             "value": 10
         },
         {
-            "source": "Guizhou",
-            "target": "Guangdong",
+            "source": 24,
+            "target": 19,
             "value": 19
         },
         {
-            "source": "Guizhou",
-            "target": "Guangxi",
+            "source": 24,
+            "target": 20,
             "value": 3
         },
         {
-            "source": "Guizhou",
-            "target": "Hainan",
+            "source": 24,
+            "target": 21,
             "value": 1
         },
         {
-            "source": "Guizhou",
-            "target": "Chongqing",
+            "source": 24,
+            "target": 22,
             "value": 21
         },
         {
-            "source": "Guizhou",
-            "target": "Sichuan",
+            "source": 24,
+            "target": 23,
             "value": 17
         },
         {
-            "source": "Guizhou",
-            "target": "Guizhou",
+            "source": 24,
+            "target": 24,
             "value": 306
         },
         {
-            "source": "Guizhou",
-            "target": "Yunnan",
+            "source": 24,
+            "target": 25,
             "value": 6
         },
         {
-            "source": "Guizhou",
-            "target": "Shaanxi",
+            "source": 24,
+            "target": 27,
             "value": 1
         },
         {
-            "source": "Guizhou",
-            "target": "Ningxia",
+            "source": 24,
+            "target": 30,
             "value": 2
         },
         {
-            "source": "Guizhou",
-            "target": "Xinjiang",
+            "source": 24,
+            "target": 31,
             "value": 5
         },
         {
-            "source": "Yunnan",
-            "target": "Beijing",
+            "source": 25,
+            "target": 0,
             "value": 5
         },
         {
-            "source": "Yunnan",
-            "target": "Hebei",
+            "source": 25,
+            "target": 2,
             "value": 27
         },
         {
-            "source": "Yunnan",
-            "target": "Shanxi",
+            "source": 25,
+            "target": 3,
             "value": 3
         },
         {
-            "source": "Yunnan",
-            "target": "Neimenggu",
+            "source": 25,
+            "target": 4,
             "value": 1
         },
         {
-            "source": "Yunnan",
-            "target": "Liaoning",
+            "source": 25,
+            "target": 6,
             "value": 1
         },
         {
-            "source": "Yunnan",
-            "target": "Jilin",
+            "source": 25,
+            "target": 7,
             "value": 1
         },
         {
-            "source": "Yunnan",
-            "target": "Shanghai",
+            "source": 25,
+            "target": 9,
             "value": 2
         },
         {
-            "source": "Yunnan",
-            "target": "Jiangsu",
+            "source": 25,
+            "target": 10,
             "value": 10
         },
         {
-            "source": "Yunnan",
-            "target": "Zhejiang",
+            "source": 25,
+            "target": 11,
             "value": 6
         },
         {
-            "source": "Yunnan",
-            "target": "Anhui",
+            "source": 25,
+            "target": 12,
             "value": 9
         },
         {
-            "source": "Yunnan",
-            "target": "Fujian",
+            "source": 25,
+            "target": 13,
             "value": 7
         },
         {
-            "source": "Yunnan",
-            "target": "Jiangxi",
+            "source": 25,
+            "target": 14,
             "value": 1
         },
         {
-            "source": "Yunnan",
-            "target": "Shandong",
+            "source": 25,
+            "target": 15,
             "value": 19
         },
         {
-            "source": "Yunnan",
-            "target": "Henan",
+            "source": 25,
+            "target": 16,
             "value": 32
         },
         {
-            "source": "Yunnan",
-            "target": "Hubei",
+            "source": 25,
+            "target": 17,
             "value": 3
         },
         {
-            "source": "Yunnan",
-            "target": "Hunan",
+            "source": 25,
+            "target": 18,
             "value": 7
         },
         {
-            "source": "Yunnan",
-            "target": "Guangdong",
+            "source": 25,
+            "target": 19,
             "value": 20
         },
         {
-            "source": "Yunnan",
-            "target": "Guangxi",
+            "source": 25,
+            "target": 20,
             "value": 2
         },
         {
-            "source": "Yunnan",
-            "target": "Hainan",
+            "source": 25,
+            "target": 21,
             "value": 1
         },
         {
-            "source": "Yunnan",
-            "target": "Chongqing",
+            "source": 25,
+            "target": 22,
             "value": 8
         },
         {
-            "source": "Yunnan",
-            "target": "Sichuan",
+            "source": 25,
+            "target": 23,
             "value": 20
         },
         {
-            "source": "Yunnan",
-            "target": "Guizhou",
+            "source": 25,
+            "target": 24,
             "value": 11
         },
         {
-            "source": "Yunnan",
-            "target": "Yunnan",
+            "source": 25,
+            "target": 25,
             "value": 143
         },
         {
-            "source": "Yunnan",
-            "target": "Shaanxi",
+            "source": 25,
+            "target": 27,
             "value": 3
         },
         {
-            "source": "Yunnan",
-            "target": "Gansu",
+            "source": 25,
+            "target": 28,
             "value": 1
         },
         {
-            "source": "Yunnan",
-            "target": "Ningxia",
+            "source": 25,
+            "target": 30,
             "value": 1
         },
         {
-            "source": "Yunnan",
-            "target": "Xinjiang",
+            "source": 25,
+            "target": 31,
             "value": 2
         },
         {
-            "source": "Xizang",
-            "target": "Neimenggu",
+            "source": 26,
+            "target": 4,
             "value": 1
         },
         {
-            "source": "Xizang",
-            "target": "Liaoning",
+            "source": 26,
+            "target": 6,
             "value": 1
         },
         {
-            "source": "Xizang",
-            "target": "Jilin",
+            "source": 26,
+            "target": 7,
             "value": 1
         },
         {
-            "source": "Xizang",
-            "target": "Anhui",
+            "source": 26,
+            "target": 12,
             "value": 1
         },
         {
-            "source": "Xizang",
-            "target": "Shandong",
+            "source": 26,
+            "target": 15,
             "value": 1
         },
         {
-            "source": "Xizang",
-            "target": "Henan",
+            "source": 26,
+            "target": 16,
             "value": 1
         },
         {
-            "source": "Xizang",
-            "target": "Chongqing",
+            "source": 26,
+            "target": 22,
             "value": 1
         },
         {
-            "source": "Xizang",
-            "target": "Sichuan",
+            "source": 26,
+            "target": 23,
             "value": 5
         },
         {
-            "source": "Xizang",
-            "target": "Xizang",
+            "source": 26,
+            "target": 26,
             "value": 3
         },
         {
-            "source": "Xizang",
-            "target": "Shaanxi",
+            "source": 26,
+            "target": 27,
             "value": 1
         },
         {
-            "source": "Xizang",
-            "target": "Gansu",
+            "source": 26,
+            "target": 28,
             "value": 1
         },
         {
-            "source": "Shaanxi",
-            "target": "Beijing",
+            "source": 27,
+            "target": 0,
             "value": 9
         },
         {
-            "source": "Shaanxi",
-            "target": "Tianjin",
+            "source": 27,
+            "target": 1,
             "value": 6
         },
         {
-            "source": "Shaanxi",
-            "target": "Hebei",
+            "source": 27,
+            "target": 2,
             "value": 53
         },
         {
-            "source": "Shaanxi",
-            "target": "Shanxi",
+            "source": 27,
+            "target": 3,
             "value": 11
         },
         {
-            "source": "Shaanxi",
-            "target": "Liaoning",
+            "source": 27,
+            "target": 6,
             "value": 9
         },
         {
-            "source": "Shaanxi",
-            "target": "Jilin",
+            "source": 27,
+            "target": 7,
             "value": 1
         },
         {
-            "source": "Shaanxi",
-            "target": "Heilongjiang",
+            "source": 27,
+            "target": 8,
             "value": 1
         },
         {
-            "source": "Shaanxi",
-            "target": "Shanghai",
+            "source": 27,
+            "target": 9,
             "value": 9
         },
         {
-            "source": "Shaanxi",
-            "target": "Jiangsu",
+            "source": 27,
+            "target": 10,
             "value": 42
         },
         {
-            "source": "Shaanxi",
-            "target": "Zhejiang",
+            "source": 27,
+            "target": 11,
             "value": 9
         },
         {
-            "source": "Shaanxi",
-            "target": "Anhui",
+            "source": 27,
+            "target": 12,
             "value": 29
         },
         {
-            "source": "Shaanxi",
-            "target": "Fujian",
+            "source": 27,
+            "target": 13,
             "value": 4
         },
         {
-            "source": "Shaanxi",
-            "target": "Jiangxi",
+            "source": 27,
+            "target": 14,
             "value": 2
         },
         {
-            "source": "Shaanxi",
-            "target": "Shandong",
+            "source": 27,
+            "target": 15,
             "value": 49
         },
         {
-            "source": "Shaanxi",
-            "target": "Henan",
+            "source": 27,
+            "target": 16,
             "value": 263
         },
         {
-            "source": "Shaanxi",
-            "target": "Hubei",
+            "source": 27,
+            "target": 17,
             "value": 9
         },
         {
-            "source": "Shaanxi",
-            "target": "Hunan",
+            "source": 27,
+            "target": 18,
             "value": 3
         },
         {
-            "source": "Shaanxi",
-            "target": "Guangdong",
+            "source": 27,
+            "target": 19,
             "value": 16
         },
         {
-            "source": "Shaanxi",
-            "target": "Guangxi",
+            "source": 27,
+            "target": 20,
             "value": 2
         },
         {
-            "source": "Shaanxi",
-            "target": "Chongqing",
+            "source": 27,
+            "target": 22,
             "value": 4
         },
         {
-            "source": "Shaanxi",
-            "target": "Sichuan",
+            "source": 27,
+            "target": 23,
             "value": 12
         },
         {
-            "source": "Shaanxi",
-            "target": "Yunnan",
+            "source": 27,
+            "target": 25,
             "value": 2
         },
         {
-            "source": "Shaanxi",
-            "target": "Xizang",
+            "source": 27,
+            "target": 26,
             "value": 1
         },
         {
-            "source": "Shaanxi",
-            "target": "Shaanxi",
+            "source": 27,
+            "target": 27,
             "value": 410
         },
         {
-            "source": "Shaanxi",
-            "target": "Gansu",
+            "source": 27,
+            "target": 28,
             "value": 18
         },
         {
-            "source": "Shaanxi",
-            "target": "Ningxia",
+            "source": 27,
+            "target": 30,
             "value": 3
         },
         {
-            "source": "Shaanxi",
-            "target": "Xinjiang",
+            "source": 27,
+            "target": 31,
             "value": 9
         },
         {
-            "source": "Gansu",
-            "target": "Beijing",
+            "source": 28,
+            "target": 0,
             "value": 1
         },
         {
-            "source": "Gansu",
-            "target": "Hebei",
+            "source": 28,
+            "target": 2,
             "value": 12
         },
         {
-            "source": "Gansu",
-            "target": "Shanxi",
+            "source": 28,
+            "target": 3,
             "value": 4
         },
         {
-            "source": "Gansu",
-            "target": "Neimenggu",
+            "source": 28,
+            "target": 4,
             "value": 3
         },
         {
-            "source": "Gansu",
-            "target": "Liaoning",
+            "source": 28,
+            "target": 6,
             "value": 4
         },
         {
-            "source": "Gansu",
-            "target": "Jilin",
+            "source": 28,
+            "target": 7,
             "value": 1
         },
         {
-            "source": "Gansu",
-            "target": "Heilongjiang",
+            "source": 28,
+            "target": 8,
             "value": 1
         },
         {
-            "source": "Gansu",
-            "target": "Shanghai",
+            "source": 28,
+            "target": 9,
             "value": 2
         },
         {
-            "source": "Gansu",
-            "target": "Jiangsu",
+            "source": 28,
+            "target": 10,
             "value": 7
         },
         {
-            "source": "Gansu",
-            "target": "Zhejiang",
+            "source": 28,
+            "target": 11,
             "value": 6
         },
         {
-            "source": "Gansu",
-            "target": "Anhui",
+            "source": 28,
+            "target": 12,
             "value": 1
         },
         {
-            "source": "Gansu",
-            "target": "Fujian",
+            "source": 28,
+            "target": 13,
             "value": 3
         },
         {
-            "source": "Gansu",
-            "target": "Jiangxi",
+            "source": 28,
+            "target": 14,
             "value": 3
         },
         {
-            "source": "Gansu",
-            "target": "Shandong",
+            "source": 28,
+            "target": 15,
             "value": 7
         },
         {
-            "source": "Gansu",
-            "target": "Henan",
+            "source": 28,
+            "target": 16,
             "value": 21
         },
         {
-            "source": "Gansu",
-            "target": "Hunan",
+            "source": 28,
+            "target": 18,
             "value": 2
         },
         {
-            "source": "Gansu",
-            "target": "Guangdong",
+            "source": 28,
+            "target": 19,
             "value": 7
         },
         {
-            "source": "Gansu",
-            "target": "Chongqing",
+            "source": 28,
+            "target": 22,
             "value": 1
         },
         {
-            "source": "Gansu",
-            "target": "Sichuan",
+            "source": 28,
+            "target": 23,
             "value": 5
         },
         {
-            "source": "Gansu",
-            "target": "Shaanxi",
+            "source": 28,
+            "target": 27,
             "value": 8
         },
         {
-            "source": "Gansu",
-            "target": "Gansu",
+            "source": 28,
+            "target": 28,
             "value": 139
         },
         {
-            "source": "Gansu",
-            "target": "Ningxia",
+            "source": 28,
+            "target": 30,
             "value": 4
         },
         {
-            "source": "Gansu",
-            "target": "Xinjiang",
+            "source": 28,
+            "target": 31,
             "value": 16
         },
         {
-            "source": "Qinghai",
-            "target": "Beijing",
+            "source": 29,
+            "target": 0,
             "value": 6
         },
         {
-            "source": "Qinghai",
-            "target": "Hebei",
+            "source": 29,
+            "target": 2,
             "value": 3
         },
         {
-            "source": "Qinghai",
-            "target": "Shanxi",
+            "source": 29,
+            "target": 3,
             "value": 3
         },
         {
-            "source": "Qinghai",
-            "target": "Neimenggu",
+            "source": 29,
+            "target": 4,
             "value": 3
         },
         {
-            "source": "Qinghai",
-            "target": "Liaoning",
+            "source": 29,
+            "target": 6,
             "value": 2
         },
         {
-            "source": "Qinghai",
-            "target": "Heilongjiang",
+            "source": 29,
+            "target": 8,
             "value": 1
         },
         {
-            "source": "Qinghai",
-            "target": "Shanghai",
+            "source": 29,
+            "target": 9,
             "value": 3
         },
         {
-            "source": "Qinghai",
-            "target": "Jiangsu",
+            "source": 29,
+            "target": 10,
             "value": 18
         },
         {
-            "source": "Qinghai",
-            "target": "Zhejiang",
+            "source": 29,
+            "target": 11,
             "value": 6
         },
         {
-            "source": "Qinghai",
-            "target": "Anhui",
+            "source": 29,
+            "target": 12,
             "value": 8
         },
         {
-            "source": "Qinghai",
-            "target": "Shandong",
+            "source": 29,
+            "target": 15,
             "value": 10
         },
         {
-            "source": "Qinghai",
-            "target": "Henan",
+            "source": 29,
+            "target": 16,
             "value": 160
         },
         {
-            "source": "Qinghai",
-            "target": "Hubei",
+            "source": 29,
+            "target": 17,
             "value": 1
         },
         {
-            "source": "Qinghai",
-            "target": "Hunan",
+            "source": 29,
+            "target": 18,
             "value": 2
         },
         {
-            "source": "Qinghai",
-            "target": "Guangdong",
+            "source": 29,
+            "target": 19,
             "value": 8
         },
         {
-            "source": "Qinghai",
-            "target": "Chongqing",
+            "source": 29,
+            "target": 22,
             "value": 2
         },
         {
-            "source": "Qinghai",
-            "target": "Sichuan",
+            "source": 29,
+            "target": 23,
             "value": 5
         },
         {
-            "source": "Qinghai",
-            "target": "Guizhou",
+            "source": 29,
+            "target": 24,
             "value": 1
         },
         {
-            "source": "Qinghai",
-            "target": "Shaanxi",
+            "source": 29,
+            "target": 27,
             "value": 5
         },
         {
-            "source": "Qinghai",
-            "target": "Gansu",
+            "source": 29,
+            "target": 28,
             "value": 1
         },
         {
-            "source": "Qinghai",
-            "target": "Qinghai",
+            "source": 29,
+            "target": 29,
             "value": 19
         },
         {
-            "source": "Qinghai",
-            "target": "Ningxia",
+            "source": 29,
+            "target": 30,
             "value": 1
         },
         {
-            "source": "Qinghai",
-            "target": "Xinjiang",
+            "source": 29,
+            "target": 31,
             "value": 2
         },
         {
-            "source": "Ningxia",
-            "target": "Beijing",
+            "source": 30,
+            "target": 0,
             "value": 1
         },
         {
-            "source": "Ningxia",
-            "target": "Tianjin",
+            "source": 30,
+            "target": 1,
             "value": 2
         },
         {
-            "source": "Ningxia",
-            "target": "Hebei",
+            "source": 30,
+            "target": 2,
             "value": 6
         },
         {
-            "source": "Ningxia",
-            "target": "Shanxi",
+            "source": 30,
+            "target": 3,
             "value": 3
         },
         {
-            "source": "Ningxia",
-            "target": "Neimenggu",
+            "source": 30,
+            "target": 4,
             "value": 1
         },
         {
-            "source": "Ningxia",
-            "target": "Liaoning",
+            "source": 30,
+            "target": 6,
             "value": 1
         },
         {
-            "source": "Ningxia",
-            "target": "Jilin",
+            "source": 30,
+            "target": 7,
             "value": 1
         },
         {
-            "source": "Ningxia",
-            "target": "Shanghai",
+            "source": 30,
+            "target": 9,
             "value": 1
         },
         {
-            "source": "Ningxia",
-            "target": "Jiangsu",
+            "source": 30,
+            "target": 10,
             "value": 7
         },
         {
-            "source": "Ningxia",
-            "target": "Zhejiang",
+            "source": 30,
+            "target": 11,
             "value": 2
         },
         {
-            "source": "Ningxia",
-            "target": "Anhui",
+            "source": 30,
+            "target": 12,
             "value": 2
         },
         {
-            "source": "Ningxia",
-            "target": "Fujian",
+            "source": 30,
+            "target": 13,
             "value": 3
         },
         {
-            "source": "Ningxia",
-            "target": "Shandong",
+            "source": 30,
+            "target": 15,
             "value": 7
         },
         {
-            "source": "Ningxia",
-            "target": "Henan",
+            "source": 30,
+            "target": 16,
             "value": 12
         },
         {
-            "source": "Ningxia",
-            "target": "Hunan",
+            "source": 30,
+            "target": 18,
             "value": 1
         },
         {
-            "source": "Ningxia",
-            "target": "Guangdong",
+            "source": 30,
+            "target": 19,
             "value": 5
         },
         {
-            "source": "Ningxia",
-            "target": "Guangxi",
+            "source": 30,
+            "target": 20,
             "value": 2
         },
         {
-            "source": "Ningxia",
-            "target": "Sichuan",
+            "source": 30,
+            "target": 23,
             "value": 4
         },
         {
-            "source": "Ningxia",
-            "target": "Yunnan",
+            "source": 30,
+            "target": 25,
             "value": 2
         },
         {
-            "source": "Ningxia",
-            "target": "Shaanxi",
+            "source": 30,
+            "target": 27,
             "value": 3
         },
         {
-            "source": "Ningxia",
-            "target": "Gansu",
+            "source": 30,
+            "target": 28,
             "value": 1
         },
         {
-            "source": "Ningxia",
-            "target": "Ningxia",
+            "source": 30,
+            "target": 30,
             "value": 24
         },
         {
-            "source": "Xinjiang",
-            "target": "Beijing",
+            "source": 31,
+            "target": 0,
             "value": 1
         },
         {
-            "source": "Xinjiang",
-            "target": "Tianjin",
+            "source": 31,
+            "target": 1,
             "value": 1
         },
         {
-            "source": "Xinjiang",
-            "target": "Hebei",
+            "source": 31,
+            "target": 2,
             "value": 6
         },
         {
-            "source": "Xinjiang",
-            "target": "Shanxi",
+            "source": 31,
+            "target": 3,
             "value": 3
         },
         {
-            "source": "Xinjiang",
-            "target": "Liaoning",
+            "source": 31,
+            "target": 6,
             "value": 1
         },
         {
-            "source": "Xinjiang",
-            "target": "Jiangsu",
+            "source": 31,
+            "target": 10,
             "value": 9
         },
         {
-            "source": "Xinjiang",
-            "target": "Zhejiang",
+            "source": 31,
+            "target": 11,
             "value": 2
         },
         {
-            "source": "Xinjiang",
-            "target": "Anhui",
+            "source": 31,
+            "target": 12,
             "value": 4
         },
         {
-            "source": "Xinjiang",
-            "target": "Fujian",
+            "source": 31,
+            "target": 13,
             "value": 1
         },
         {
-            "source": "Xinjiang",
-            "target": "Shandong",
+            "source": 31,
+            "target": 15,
             "value": 10
         },
         {
-            "source": "Xinjiang",
-            "target": "Henan",
+            "source": 31,
+            "target": 16,
             "value": 34
         },
         {
-            "source": "Xinjiang",
-            "target": "Hubei",
+            "source": 31,
+            "target": 17,
             "value": 4
         },
         {
-            "source": "Xinjiang",
-            "target": "Hunan",
+            "source": 31,
+            "target": 18,
             "value": 2
         },
         {
-            "source": "Xinjiang",
-            "target": "Guangdong",
+            "source": 31,
+            "target": 19,
             "value": 3
         },
         {
-            "source": "Xinjiang",
-            "target": "Chongqing",
+            "source": 31,
+            "target": 22,
             "value": 3
         },
         {
-            "source": "Xinjiang",
-            "target": "Sichuan",
+            "source": 31,
+            "target": 23,
             "value": 5
         },
         {
-            "source": "Xinjiang",
-            "target": "Yunnan",
+            "source": 31,
+            "target": 25,
             "value": 1
         },
         {
-            "source": "Xinjiang",
-            "target": "Shaanxi",
+            "source": 31,
+            "target": 27,
             "value": 1
         },
         {
-            "source": "Xinjiang",
-            "target": "Gansu",
+            "source": 31,
+            "target": 28,
             "value": 5
         },
         {
-            "source": "Xinjiang",
-            "target": "Xinjiang",
+            "source": 31,
+            "target": 31,
             "value": 67
         },
         {
-            "source": "Taiwan",
-            "target": "Beijing",
+            "source": 32,
+            "target": 0,
             "value": 1
         }
     ]
