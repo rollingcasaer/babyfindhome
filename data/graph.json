@@ -5,245 +5,280 @@
             "name": "Beijing",
             "x": 116.4120026,
             "y": 40.1855011,
-            "value": 154
+            "value": 154,
+            "category": "North_China"
         },
         {
             "id": 1,
             "name": "Tianjin",
             "x": 117.3339996,
             "y": 39.29339981,
-            "value": 93
+            "value": 93,
+            "category": "North_China"
         },
         {
             "id": 2,
             "name": "Hebei",
             "x": 116.137001,
             "y": 39.54779816,
-            "value": 776
+            "value": 776,
+            "category": "North_China"
         },
         {
             "id": 3,
             "name": "Shanxi",
             "x": 112.2900009,
             "y": 37.57170105,
-            "value": 355
+            "value": 355,
+            "category": "North_China"
         },
         {
             "id": 4,
             "name": "Neimenggu",
             "x": 113.9219971,
             "y": 44.08929825,
-            "value": 188
+            "value": 188,
+            "category": "North_China"
         },
         {
             "id": 5,
             "name": "Neimenggu",
             "x": 125.5660019,
             "y": 40.68629837,
-            "value": 188
+            "value": 188,
+            "category": "North_China"
         },
         {
             "id": 6,
             "name": "Liaoning",
             "x": 122.6029968,
             "y": 41.2881012,
-            "value": 286
+            "value": 286,
+            "category": "Northeast_China"
         },
         {
             "id": 7,
             "name": "Jilin",
             "x": 126.1880035,
             "y": 43.66770172,
-            "value": 262
+            "value": 262,
+            "category": "Northeast_China"
         },
         {
             "id": 8,
             "name": "Heilongjiang",
             "x": 127.7659988,
             "y": 47.86169815,
-            "value": 343
+            "value": 343,
+            "category": "Northeast_China"
         },
         {
             "id": 9,
             "name": "Shanghai",
             "x": 121.4690018,
             "y": 31.24010086,
-            "value": 119
+            "value": 119,
+            "category": "East_China"
         },
         {
             "id": 10,
             "name": "Jiangsu",
             "x": 119.4749985,
             "y": 32.9632988,
-            "value": 1491
+            "value": 1491,
+            "category": "East_China"
         },
         {
             "id": 11,
             "name": "Zhejiang",
             "x": 120.1110001,
             "y": 29.19610023,
-            "value": 546
+            "value": 546,
+            "category": "East_China"
         },
         {
             "id": 12,
             "name": "Anhui",
             "x": 117.2259979,
             "y": 31.82600021,
-            "value": 957
+            "value": 957,
+            "category": "Central_China"
         },
         {
             "id": 13,
             "name": "Fujian",
             "x": 117.9899979,
             "y": 26.07410049,
-            "value": 1152
+            "value": 1152,
+            "category": "East_China"
         },
         {
             "id": 14,
             "name": "Jiangxi",
             "x": 115.7220001,
             "y": 27.6140995,
-            "value": 449
+            "value": 449,
+            "category": "East_China"
         },
         {
             "id": 15,
             "name": "Shandong",
             "x": 118.1529999,
             "y": 36.3492012,
-            "value": 1018
+            "value": 1018,
+            "category": "East_China"
         },
         {
             "id": 16,
             "name": "Henan",
             "x": 113.6149979,
             "y": 33.88230133,
-            "value": 1230
+            "value": 1230,
+            "category": "Central_China"
         },
         {
             "id": 17,
             "name": "Hubei",
             "x": 112.2720032,
             "y": 30.97550011,
-            "value": 498
+            "value": 498,
+            "category": "Central_China"
         },
         {
             "id": 18,
             "name": "Hunan",
             "x": 111.7089996,
             "y": 27.60980034,
-            "value": 480
+            "value": 480,
+            "category": "Central_China"
         },
         {
             "id": 19,
             "name": "Guangdong",
             "x": 113.4219971,
             "y": 23.33959961,
-            "value": 1084
+            "value": 1084,
+            "category": "South_China"
         },
         {
             "id": 20,
             "name": "Guangxi",
             "x": 108.788002,
             "y": 23.8295002,
-            "value": 57
+            "value": 57,
+            "category": "South_China"
         },
         {
             "id": 21,
             "name": "Hainan",
             "x": 109.8089981,
             "y": 19.14209938,
-            "value": 20
+            "value": 20,
+            "category": "South_China"
         },
         {
             "id": 22,
             "name": "Chongqing",
             "x": 107.8740005,
             "y": 30.05719948,
-            "value": 419
+            "value": 419,
+            "category": "Southwest_China"
         },
         {
             "id": 23,
             "name": "Sichuan",
             "x": 102.6930008,
             "y": 30.62919998,
-            "value": 1005
+            "value": 1005,
+            "category": "Southwest_China"
         },
         {
             "id": 24,
             "name": "Guizhou",
             "x": 106.875,
             "y": 26.81550026,
-            "value": 306
+            "value": 306,
+            "category": "Southwest_China"
         },
         {
             "id": 25,
             "name": "Yunnan",
             "x": 101.4869995,
             "y": 24.97500038,
-            "value": 143
+            "value": 143,
+            "category": "Southwest_China"
         },
         {
             "id": 26,
             "name": "Xizang",
             "x": 88.43979645,
             "y": 31.49169922,
-            "value": 3
+            "value": 3,
+            "category": "Southwest_China"
         },
         {
             "id": 27,
             "name": "Shaanxi",
             "x": 108.8690033,
             "y": 35.19060135,
-            "value": 410
+            "value": 410,
+            "category": "Northwest_China"
         },
         {
             "id": 28,
             "name": "Gansu",
             "x": 100.6039963,
             "y": 37.88150024,
-            "value": 139
+            "value": 139,
+            "category": "Northwest_China"
         },
         {
             "id": 29,
             "name": "Qinghai",
             "x": 96.03929901,
             "y": 35.67070007,
-            "value": 19
+            "value": 19,
+            "category": "Northwest_China"
         },
         {
             "id": 30,
             "name": "Ningxia",
             "x": 106.1640015,
             "y": 37.27159882,
-            "value": 24
+            "value": 24,
+            "category": "Northwest_China"
         },
         {
             "id": 31,
             "name": "Xinjiang",
             "x": 85.19129944,
             "y": 41.11719894,
-            "value": 67
+            "value": 67,
+            "category": "Northwest_China"
         },
         {
             "id": 32,
             "name": "Taiwan",
             "x": 120.9680023,
             "y": 23.74710083,
-            "value": 0
+            "value": 0,
+            "category": "East_China"
         },
         {
             "id": 33,
             "name": "Hongkong",
             "x": 114.1340027,
             "y": 22.38129997,
-            "value": 0
+            "value": 0,
+            "category": "South_China"
         },
         {
             "id": 34,
             "name": "Macau",
             "x": 113.560997,
             "y": 22.16300011,
-            "value": 0
+            "value": 0,
+            "category": "South_China"
         }
     ],
     "links": [
