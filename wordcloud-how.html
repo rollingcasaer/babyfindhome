@@ -1,0 +1,162 @@
+<!-- <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <!-- <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>WordCloud</title>
+    <script src="https://cdn.bootcss.com/wordcloud2.js/1.1.0/wordcloud2.js"></script>
+    <script src="https://cdn.bootcss.com/jquery/3.3.1/jquery.min.js"></script>
+    <script src='https://cdn.jsdelivr.net/npm/echarts@5/dist/echarts.min.js'></script>
+    <script src='https://raw.githubusercontent.com/ecomfe/echarts-wordcloud/master/dist/echarts-wordcloud.js'></script>
+</head>
+<body>
+    <div id="canvas-container" align="center">
+    <canvas id="canvas" width="1000px" height="600px"></canvas>
+    </div>
+</body>
+</html>
+<script>
+    var options = eval({
+        "list": [
+            ['Google', 10],
+            ['Tencent', 9],
+            ['Alibaba', 7],
+            ['Baidu', 6],
+            ['NetEase', 4],
+            ['JD', 5],
+            ['Youku', 4],
+            ['Meituan', 3],
+            ['Douban', 3]
+        ],
+        "gridSize": 25, // size of the grid in pixels
+        "weightFactor": 12, // number to multiply for size of each word in the list
+        "fontWeight": 'normal', // 'normal', 'bold' or a callback
+        "fontFamily": 'Times, serif', // font to use
+        color: function (word, weight) {
+          return (weight === 10) ? '#ffcc6f' : '#c8d5b9';
+          },     // 'random-dark' or 'random-light'
+        "backgroundColor": '#304e65', // the color of canvas
+        "hover": window.drawBox,
+        click: function(item) {
+        alert(item[0] + ': ' + item[1]);
+          },
+        "rotateRatio": 1 // probability for the word to rotate. 1 means always rotate
+    });
+    var canvas = document.getElementById('canvas');
+    WordCloud(canvas, options);
+</script> -->
+
+<html>
+    <head>
+        <meta charset="utf-8">
+        <script src='https://cdn.jsdelivr.net/npm/echarts@5/dist/echarts.min.js'></script>
+        <!-- <script src="../../echarts/dist/echarts.js"></script> -->
+        <script src='https://cdn.jsdelivr.net/gh/rollingcasaer/rollingcasaer.github.io@main/js/echarts-wordcloud.js'></script>
+    </head>
+    <body>
+        <style>
+            html, body, #main {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+            }
+        </style>
+        <div id='main'></div>
+        <script>
+            var chart = echarts.init(document.getElementById('main'));
+
+            var option = {
+                tooltip: {},
+                series: [ {
+                    type: 'wordCloud',
+                    gridSize: 10,
+                    sizeRange: [20, 50],
+                    rotationRange: [0, 0],
+                    shape: 'pentagon',
+                    width: 600,
+                    height: 400,
+                    drawOutOfBound: false,
+                    // textStyle:{
+                    //   color: '#304e65'
+                    // },
+                    textStyle: {
+                        color: function () {
+                            return 'rgb(' + [
+                                Math.round(Math.random() * 160),
+                                Math.round(Math.random() * 160),
+                                Math.round(Math.random() * 160)
+                            ].join(',') + ')';
+                        }
+                    },
+                    emphasis: {
+                        textStyle: {
+                            shadowBlur: 10,
+                            shadowColor: '#304e65'
+                        }
+                    },
+                    data: [
+                        {
+                            name: 'Abandoned',
+                            value: 1377,
+                            emphasis: {
+                                textStyle: {
+                                    color: '#ffcc6f'
+                                }
+                            }
+                        },
+                        {
+                            name: 'Private Adoption',
+                            value: 1703,
+                            emphasis: {
+                                textStyle: {
+                                    color: '#ffcc6f'
+                                }
+                            }
+                        },
+                        {
+                            name: 'Giving Away',
+                            value: 1530,
+                            emphasis: {
+                                textStyle: {
+                                    color: '#ffcc6f'
+                                }
+                            }
+                        },
+                        {
+                            name: 'Missing',
+                            value: 533,
+                            emphasis: {
+                                textStyle: {
+                                    color: '#ffcc6f'
+                                }
+                            }
+                        },
+                        {
+                            name: 'Picked Up',
+                            value: 521,
+                            emphasis: {
+                                textStyle: {
+                                    color: '#ffcc6f'
+                                }
+                            }
+                        },
+                        {
+                            name: 'Public Adoption',
+                            value: 1317,
+                            emphasis: {
+                                textStyle: {
+                                    color: '#ffcc6f'
+                                }
+                            }
+                        }
+                    ]
+                } ]
+            };
+
+            chart.setOption(option);
+
+            window.onresize = chart.resize;
+        </script>
+    </body>
+</html>
