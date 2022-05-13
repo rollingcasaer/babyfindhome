@@ -3952,5 +3952,28 @@
             "target": 0,
             "value": 1
         }
-    ]
+    ],
+    "categories": [
+        {
+          "name": "East_China"
+        },
+        {
+          "name": "Southwest_China"
+        },
+        {
+          "name": "Central_China"
+        },
+        {
+          "name": "South_China"
+        },
+        {
+          "name": "North_China"
+        },
+        {
+          "name": "Northwest_China"
+        },
+        {
+          "name": "Northeast_China"
+        }
+      ]
 }
