@@ -1,0 +1,218 @@
+<!--
+  THIS EXAMPLE WAS DOWNLOADED FROM https://echarts.apache.org/examples/zh/editor.html?c=graph
+-->
+<!DOCTYPE html>
+<html lang="gb-EN" style="height: 100%">
+
+<head>
+  <meta charset="utf-8">
+</head>
+
+<body style="height: 100%; margin: 0">
+  <div id="container" style="height: 100%"></div>
+
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/jquery"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/echarts@5.3.2/dist/echarts.min.js"></script>
+  <!-- Uncomment this line if you want to dataTool extension
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/echarts@5.3.2/dist/extension/dataTool.min.js"></script>
+  -->
+  <!-- Uncomment this line if you want to use gl extension
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/echarts-gl@2/dist/echarts-gl.min.js"></script>
+  -->
+  <!-- Uncomment this line if you want to echarts-stat extension
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/echarts-stat@latest/dist/ecStat.min.js"></script>
+  -->
+
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/echarts@4.9.0/map/js/china.js"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/echarts@4.9.0/map/js/world.js"></script>
+
+  <!--
+  <script type="text/javascript" src="https://api.map.baidu.com/api?v=3.0&ak=Iq9bNeDZX266BBjNqm9pppK370BBiOrn"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/echarts@5.3.2/dist/extension/bmap.min.js"></script>
+  -->
+
+  <script type="text/javascript">
+    var dom = document.getElementById('container');
+    var myChart = echarts.init(dom, 'light', {
+      renderer: 'canvas',
+      useDirtyRect: false
+    });
+    var app = {};
+    var option;
+
+    myChart.showLoading();
+    $.getJSON('https://raw.githubusercontent.com/rollingcasaer/rollingcasaer.github.io/main/data/graph.json', function (graph) {
+      myChart.hideLoading();
+
+      option = {
+        title: {
+          text: 'Child trafficking flows',
+          //subtext: 'Default layout',
+          top: 'top',
+          left: 'left',
+
+        },
+        tooltip: {},
+        legend: [
+          {
+            data: graph.categories.map(function (a) {
+              return a.name;
+            })
+          }
+        ],
+        legend: [
+          {
+            // selectedMode: 'single',
+            data: graph.categories.map(function (a) {
+              return a.name;
+            })
+          }
+        ],
+
+
+
+        geo: {
+          center: [104, 36],
+          zoom: 1.3,
+          map: 'china',
+          roam: true,
+          silent: true,
+          //backgroundColor:'#000000',
+          itemStyle: {
+            color: '#D5D5D5',
+            borderColor: '#ffffff',
+            borderWidth: 1
+          }
+        },
+
+        animationDuration: 2000,
+        animationEasingUpdate: 'quinticInOut',
+        series: [
+          {
+            name: 'Children trafficked into',
+            type: 'graph',
+            coordinateSystem: 'geo',
+            //map:'china',
+            layout: 'none',
+            roam: true,
+            edgeSymbol: ['circle', 'arrow'],
+
+            //data: graph.nodes,
+            data: graph.nodes.map(function (nodes) {
+              return {
+                x: nodes.x,
+                y: nodes.y,
+                id: nodes.id,
+                name: nodes.name,
+                value: [nodes.x, nodes.y, nodes.value],
+                weight: nodes.value,
+                category: nodes.category,
+                symbolSize: nodes.value / 80 + 15,
+
+                itemStyle: {
+                  //color: '#ffffff',
+                  opacity: 0.7
+                },
+                label: {
+                  show: true,
+                  position: 'inside',
+                  formatter: '{@2}',
+                  color: '#000000'
+                },
+                tooltip: {
+                  formatter: 'Internal flows of {b}',
+
+                }
+              };
+            }),
+            //links: graph.links,
+            links: graph.links.map(function (links) {
+              return {
+                source: links.source,
+                target: links.target,
+                value: links.value,
+                lineStyle: {
+                  //color: '#8fbfa4',
+                  color: 'source',
+                  width: links.value / 30 + 0.5,
+                  curveness: 0.1
+                },
+                emphasis: {
+                  focus: 'adjacency',
+                  lineStyle: {
+                    width: links.value / 30 + 0.5
+                  },
+                }
+              };
+            }),
+            //symbolSize: graph.nodes.value,
+            //categories: graph.categories,
+            categories: [
+              {
+                "name": "East_China",
+                itemStyle: {
+                  color: "#2d7d80"
+                }
+              },
+              {
+                "name": "Southwest_China",
+                itemStyle: {
+                  color: "#81c899"
+                }
+              },
+              {
+                "name": "Central_China",
+                itemStyle: {
+                  color: "#b9db9b"
+                }
+              },
+              {
+                "name": "South_China",
+                itemStyle: {
+                  color: "#ebeb92"
+                }
+              },
+              {
+                "name": "North_China",
+                itemStyle: {
+                  color: "#ffd371"
+                }
+              },
+              {
+                "name": "Northwest_China",
+                itemStyle: {
+                  color: "#df9a7b"
+                }
+              },
+              {
+                "name": "Northeast_China",
+                itemStyle: {
+                  color: "#fc8d46"
+                }
+              }
+            ],
+
+            emphasis: {
+              focus: 'adjacency',
+              lineStyle: {
+                width: 10
+              },
+            }
+
+          }
+        ]
+      };
+      myChart.setOption(option);
+
+    });
+
+    if (option && typeof option === 'object') {
+      myChart.setOption(option);
+    };
+
+    window.addEventListener('resize', myChart.resize);
+
+  </script>
+</body>
+
+</html>
