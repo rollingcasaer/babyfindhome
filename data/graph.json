@@ -6,7 +6,7 @@
             "x": 116.4120026,
             "y": 40.1855011,
             "value": 154,
-            "category": "North_China"
+            "category": 4
         },
         {
             "id": 1,
@@ -14,7 +14,7 @@
             "x": 117.3339996,
             "y": 39.29339981,
             "value": 93,
-            "category": "North_China"
+            "category": 4
         },
         {
             "id": 2,
@@ -22,7 +22,7 @@
             "x": 116.137001,
             "y": 39.54779816,
             "value": 776,
-            "category": "North_China"
+            "category": 4
         },
         {
             "id": 3,
@@ -30,7 +30,7 @@
             "x": 112.2900009,
             "y": 37.57170105,
             "value": 355,
-            "category": "North_China"
+            "category": 4
         },
         {
             "id": 4,
@@ -38,7 +38,7 @@
             "x": 113.9219971,
             "y": 44.08929825,
             "value": 188,
-            "category": "North_China"
+            "category": 4
         },
         {
             "id": 5,
@@ -46,7 +46,7 @@
             "x": 125.5660019,
             "y": 40.68629837,
             "value": 188,
-            "category": "North_China"
+            "category": 4
         },
         {
             "id": 6,
@@ -54,7 +54,7 @@
             "x": 122.6029968,
             "y": 41.2881012,
             "value": 286,
-            "category": "Northeast_China"
+            "category": 6
         },
         {
             "id": 7,
@@ -62,7 +62,7 @@
             "x": 126.1880035,
             "y": 43.66770172,
             "value": 262,
-            "category": "Northeast_China"
+            "category": 6
         },
         {
             "id": 8,
@@ -70,7 +70,7 @@
             "x": 127.7659988,
             "y": 47.86169815,
             "value": 343,
-            "category": "Northeast_China"
+            "category": 6
         },
         {
             "id": 9,
@@ -78,7 +78,7 @@
             "x": 121.4690018,
             "y": 31.24010086,
             "value": 119,
-            "category": "East_China"
+            "category": 0
         },
         {
             "id": 10,
@@ -86,7 +86,7 @@
             "x": 119.4749985,
             "y": 32.9632988,
             "value": 1491,
-            "category": "East_China"
+            "category": 0
         },
         {
             "id": 11,
@@ -94,7 +94,7 @@
             "x": 120.1110001,
             "y": 29.19610023,
             "value": 546,
-            "category": "East_China"
+            "category": 0
         },
         {
             "id": 12,
@@ -102,7 +102,7 @@
             "x": 117.2259979,
             "y": 31.82600021,
             "value": 957,
-            "category": "Central_China"
+            "category": 2
         },
         {
             "id": 13,
@@ -110,7 +110,7 @@
             "x": 117.9899979,
             "y": 26.07410049,
             "value": 1152,
-            "category": "East_China"
+            "category": 0
         },
         {
             "id": 14,
@@ -118,7 +118,7 @@
             "x": 115.7220001,
             "y": 27.6140995,
             "value": 449,
-            "category": "East_China"
+            "category": 0
         },
         {
             "id": 15,
@@ -126,7 +126,7 @@
             "x": 118.1529999,
             "y": 36.3492012,
             "value": 1018,
-            "category": "East_China"
+            "category": 0
         },
         {
             "id": 16,
@@ -134,7 +134,7 @@
             "x": 113.6149979,
             "y": 33.88230133,
             "value": 1230,
-            "category": "Central_China"
+            "category": 2
         },
         {
             "id": 17,
@@ -142,7 +142,7 @@
             "x": 112.2720032,
             "y": 30.97550011,
             "value": 498,
-            "category": "Central_China"
+            "category": 2
         },
         {
             "id": 18,
@@ -150,7 +150,7 @@
             "x": 111.7089996,
             "y": 27.60980034,
             "value": 480,
-            "category": "Central_China"
+            "category": 2
         },
         {
             "id": 19,
@@ -158,7 +158,7 @@
             "x": 113.4219971,
             "y": 23.33959961,
             "value": 1084,
-            "category": "South_China"
+            "category": 3
         },
         {
             "id": 20,
@@ -166,7 +166,7 @@
             "x": 108.788002,
             "y": 23.8295002,
             "value": 57,
-            "category": "South_China"
+            "category": 3
         },
         {
             "id": 21,
@@ -174,7 +174,7 @@
             "x": 109.8089981,
             "y": 19.14209938,
             "value": 20,
-            "category": "South_China"
+            "category": 3
         },
         {
             "id": 22,
@@ -182,7 +182,7 @@
             "x": 107.8740005,
             "y": 30.05719948,
             "value": 419,
-            "category": "Southwest_China"
+            "category": 1
         },
         {
             "id": 23,
@@ -190,7 +190,7 @@
             "x": 102.6930008,
             "y": 30.62919998,
             "value": 1005,
-            "category": "Southwest_China"
+            "category": 1
         },
         {
             "id": 24,
@@ -198,7 +198,7 @@
             "x": 106.875,
             "y": 26.81550026,
             "value": 306,
-            "category": "Southwest_China"
+            "category": 1
         },
         {
             "id": 25,
@@ -206,7 +206,7 @@
             "x": 101.4869995,
             "y": 24.97500038,
             "value": 143,
-            "category": "Southwest_China"
+            "category": 1
         },
         {
             "id": 26,
@@ -214,7 +214,7 @@
             "x": 88.43979645,
             "y": 31.49169922,
             "value": 3,
-            "category": "Southwest_China"
+            "category": 1
         },
         {
             "id": 27,
@@ -222,7 +222,7 @@
             "x": 108.8690033,
             "y": 35.19060135,
             "value": 410,
-            "category": "Northwest_China"
+            "category": 5
         },
         {
             "id": 28,
@@ -230,7 +230,7 @@
             "x": 100.6039963,
             "y": 37.88150024,
             "value": 139,
-            "category": "Northwest_China"
+            "category": 5
         },
         {
             "id": 29,
@@ -238,7 +238,7 @@
             "x": 96.03929901,
             "y": 35.67070007,
             "value": 19,
-            "category": "Northwest_China"
+            "category": 5
         },
         {
             "id": 30,
@@ -246,7 +246,7 @@
             "x": 106.1640015,
             "y": 37.27159882,
             "value": 24,
-            "category": "Northwest_China"
+            "category": 5
         },
         {
             "id": 31,
@@ -254,7 +254,7 @@
             "x": 85.19129944,
             "y": 41.11719894,
             "value": 67,
-            "category": "Northwest_China"
+            "category": 5
         },
         {
             "id": 32,
@@ -262,7 +262,7 @@
             "x": 120.9680023,
             "y": 23.74710083,
             "value": 0,
-            "category": "East_China"
+            "category": 0
         },
         {
             "id": 33,
@@ -270,7 +270,7 @@
             "x": 114.1340027,
             "y": 22.38129997,
             "value": 0,
-            "category": "South_China"
+            "category": 3
         },
         {
             "id": 34,
@@ -278,7 +278,7 @@
             "x": 113.560997,
             "y": 22.16300011,
             "value": 0,
-            "category": "South_China"
+            "category": 3
         }
     ],
     "links": [
